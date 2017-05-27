@@ -1,0 +1,4714 @@
+[
+  {
+    "aliases": "ATHLiTACOMiCS",
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7472/",
+    "date_added": "2016-06-15 15:44:20",
+    "date_last_updated": "2016-06-15 15:44:35",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5267934-6636180633-5781c.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5267934-6636180633-5781c.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5267934-6636180633-5781c.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5267934-6636180633-5781c.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5267934-6636180633-5781c.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5267934-6636180633-5781c.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5267934-6636180633-5781c.jpg"
+    },
+    "name": "Athlita Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/athlita-comics/4010-7472/",
+    "teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-62564/",
+        "id": 62564,
+        "name": "The Protectors",
+        "site_detail_url": "https://comicvine.gamespot.com/the-protectors/4060-62564/"
+      }
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131868/",
+        "id": 131868,
+        "name": "Miguel Monteiro",
+        "site_detail_url": "https://comicvine.gamespot.com/miguel-monteiro/4005-131868/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131869/",
+        "id": 131869,
+        "name": "Danielle Peters",
+        "site_detail_url": "https://comicvine.gamespot.com/danielle-peters/4005-131869/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131870/",
+        "id": 131870,
+        "name": "Gerard Rioux",
+        "site_detail_url": "https://comicvine.gamespot.com/gerard-rioux/4005-131870/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131871/",
+        "id": 131871,
+        "name": "Douglass Larter",
+        "site_detail_url": "https://comicvine.gamespot.com/douglass-larter/4005-131871/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131872/",
+        "id": 131872,
+        "name": "Isaac Chike",
+        "site_detail_url": "https://comicvine.gamespot.com/isaac-chike/4005-131872/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91319/",
+        "id": 91319,
+        "name": "The Protectors",
+        "site_detail_url": "https://comicvine.gamespot.com/the-protectors/4050-91319/"
+      }
+    ],
+    "id": 7472
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7473/",
+    "date_added": "2016-06-17 18:47:25",
+    "date_last_updated": "2016-06-17 18:47:38",
+    "deck": "Swedish publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Förlagshuset Norden",
+    "site_detail_url": "https://comicvine.gamespot.com/forlagshuset-norden/4010-7473/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91331/",
+        "id": 91331,
+        "name": "Fix och Foxi",
+        "site_detail_url": "https://comicvine.gamespot.com/fix-och-foxi/4050-91331/"
+      }
+    ],
+    "id": 7473
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7474/",
+    "date_added": "2016-06-18 11:55:54",
+    "date_last_updated": "2016-06-18 11:56:10",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Dunce Press",
+    "site_detail_url": "https://comicvine.gamespot.com/dunce-press/4010-7474/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91334/",
+        "id": 91334,
+        "name": "Billy the Dunce",
+        "site_detail_url": "https://comicvine.gamespot.com/billy-the-dunce/4050-91334/"
+      }
+    ],
+    "id": 7474
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7475/",
+    "date_added": "2016-06-18 14:54:33",
+    "date_last_updated": "2016-06-18 14:54:34",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273600-8676075451-47146.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273600-8676075451-47146.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273600-8676075451-47146.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273600-8676075451-47146.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273600-8676075451-47146.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273600-8676075451-47146.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273600-8676075451-47146.jpg"
+    },
+    "name": "Punch Press",
+    "site_detail_url": "https://comicvine.gamespot.com/punch-press/4010-7475/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130577/",
+        "id": 130577,
+        "name": "Sandy the Golem",
+        "site_detail_url": "https://comicvine.gamespot.com/sandy-the-golem/4005-130577/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91346/",
+        "id": 91346,
+        "name": "The Golem of South Florida",
+        "site_detail_url": "https://comicvine.gamespot.com/the-golem-of-south-florida/4050-91346/"
+      }
+    ],
+    "id": 7475
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7476/",
+    "date_added": "2016-06-18 14:55:10",
+    "date_last_updated": "2016-06-18 14:55:11",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273602-3773500789-64d53.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273602-3773500789-64d53.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273602-3773500789-64d53.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273602-3773500789-64d53.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273602-3773500789-64d53.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273602-3773500789-64d53.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273602-3773500789-64d53.jpg"
+    },
+    "name": "Worth It Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/worth-it-comics/4010-7476/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130590/",
+        "id": 130590,
+        "name": "Frank",
+        "site_detail_url": "https://comicvine.gamespot.com/frank/4005-130590/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91353/",
+        "id": 91353,
+        "name": "Life-Time",
+        "site_detail_url": "https://comicvine.gamespot.com/life-time/4050-91353/"
+      }
+    ],
+    "id": 7476
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7477/",
+    "date_added": "2016-06-18 14:55:45",
+    "date_last_updated": "2016-06-18 14:55:46",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273603-1729751119-125f7.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273603-1729751119-125f7.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273603-1729751119-125f7.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273603-1729751119-125f7.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273603-1729751119-125f7.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273603-1729751119-125f7.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273603-1729751119-125f7.jpg"
+    },
+    "name": "Perfect Storm Publishing",
+    "site_detail_url": "https://comicvine.gamespot.com/perfect-storm-publishing/4010-7477/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130593/",
+        "id": 130593,
+        "name": "Erin Storm",
+        "site_detail_url": "https://comicvine.gamespot.com/erin-storm/4005-130593/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91358/",
+        "id": 91358,
+        "name": "Perfect Storm",
+        "site_detail_url": "https://comicvine.gamespot.com/perfect-storm/4050-91358/"
+      }
+    ],
+    "id": 7477
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7478/",
+    "date_added": "2016-06-18 14:56:30",
+    "date_last_updated": "2016-06-18 14:56:30",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273605-4407832009-ac82c.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273605-4407832009-ac82c.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273605-4407832009-ac82c.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273605-4407832009-ac82c.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273605-4407832009-ac82c.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273605-4407832009-ac82c.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273605-4407832009-ac82c.jpg"
+    },
+    "name": "Turner Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/turner-comics/4010-7478/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130602/",
+        "id": 130602,
+        "name": "Kevin Lu-Zer",
+        "site_detail_url": "https://comicvine.gamespot.com/kevin-lu-zer/4005-130602/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130603/",
+        "id": 130603,
+        "name": "Sherry Duece",
+        "site_detail_url": "https://comicvine.gamespot.com/sherry-duece/4005-130603/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130604/",
+        "id": 130604,
+        "name": "Terry Duece",
+        "site_detail_url": "https://comicvine.gamespot.com/terry-duece/4005-130604/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130605/",
+        "id": 130605,
+        "name": "Dustin Haze",
+        "site_detail_url": "https://comicvine.gamespot.com/dustin-haze/4005-130605/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130606/",
+        "id": 130606,
+        "name": "Alec Kholec",
+        "site_detail_url": "https://comicvine.gamespot.com/alec-kholec/4005-130606/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130607/",
+        "id": 130607,
+        "name": "Cassandra Albright",
+        "site_detail_url": "https://comicvine.gamespot.com/cassandra-albright/4005-130607/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91365/",
+        "id": 91365,
+        "name": "Undergrad Heroes",
+        "site_detail_url": "https://comicvine.gamespot.com/undergrad-heroes/4050-91365/"
+      }
+    ],
+    "id": 7478
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7479/",
+    "date_added": "2016-06-18 16:00:19",
+    "date_last_updated": "2016-06-18 16:00:19",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273706-3199269663-16a75.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273706-3199269663-16a75.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273706-3199269663-16a75.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273706-3199269663-16a75.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273706-3199269663-16a75.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273706-3199269663-16a75.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273706-3199269663-16a75.jpg"
+    },
+    "name": "Tapestry Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/tapestry-comics/4010-7479/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91370/",
+        "id": 91370,
+        "name": "Bayeux",
+        "site_detail_url": "https://comicvine.gamespot.com/bayeux/4050-91370/"
+      }
+    ],
+    "id": 7479
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7480/",
+    "date_added": "2016-06-18 16:00:54",
+    "date_last_updated": "2016-06-18 16:00:55",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273707-2610897924-601ec.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273707-2610897924-601ec.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273707-2610897924-601ec.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273707-2610897924-601ec.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273707-2610897924-601ec.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273707-2610897924-601ec.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273707-2610897924-601ec.jpg"
+    },
+    "name": "Little Boku Books",
+    "site_detail_url": "https://comicvine.gamespot.com/little-boku-books/4010-7480/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91373/",
+        "id": 91373,
+        "name": "Bunny Man: My Life in the Easter Charade",
+        "site_detail_url": "https://comicvine.gamespot.com/bunny-man-my-life-in-the-easter-charade/4050-91373/"
+      }
+    ],
+    "id": 7480
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7481/",
+    "date_added": "2016-06-18 16:01:22",
+    "date_last_updated": "2016-06-18 16:01:23",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273709-3881011498-525b3.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273709-3881011498-525b3.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273709-3881011498-525b3.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273709-3881011498-525b3.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273709-3881011498-525b3.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273709-3881011498-525b3.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273709-3881011498-525b3.jpg"
+    },
+    "name": "Pathway Productions",
+    "site_detail_url": "https://comicvine.gamespot.com/pathway-productions/4010-7481/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131192/",
+        "id": 131192,
+        "name": "Ares",
+        "site_detail_url": "https://comicvine.gamespot.com/ares/4005-131192/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131193/",
+        "id": 131193,
+        "name": "President Valdes",
+        "site_detail_url": "https://comicvine.gamespot.com/president-valdes/4005-131193/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131194/",
+        "id": 131194,
+        "name": "Sigma",
+        "site_detail_url": "https://comicvine.gamespot.com/sigma/4005-131194/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91374/",
+        "id": 91374,
+        "name": "Cede The Throne",
+        "site_detail_url": "https://comicvine.gamespot.com/cede-the-throne/4050-91374/"
+      }
+    ],
+    "id": 7481
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7482/",
+    "date_added": "2016-06-18 16:01:46",
+    "date_last_updated": "2016-06-18 16:01:47",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273710-4069705993-0a809.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273710-4069705993-0a809.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273710-4069705993-0a809.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273710-4069705993-0a809.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273710-4069705993-0a809.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273710-4069705993-0a809.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273710-4069705993-0a809.jpg"
+    },
+    "name": "Estudio Paltik",
+    "site_detail_url": "https://comicvine.gamespot.com/estudio-paltik/4010-7482/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130620/",
+        "id": 130620,
+        "name": "Verne",
+        "site_detail_url": "https://comicvine.gamespot.com/verne/4005-130620/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130621/",
+        "id": 130621,
+        "name": "Arango",
+        "site_detail_url": "https://comicvine.gamespot.com/arango/4005-130621/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130622/",
+        "id": 130622,
+        "name": "Xiuhcoatl",
+        "site_detail_url": "https://comicvine.gamespot.com/xiuhcoatl/4005-130622/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91375/",
+        "id": 91375,
+        "name": "Códices Infinitos",
+        "site_detail_url": "https://comicvine.gamespot.com/codices-infinitos/4050-91375/"
+      }
+    ],
+    "id": 7482
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7483/",
+    "date_added": "2016-06-18 16:02:12",
+    "date_last_updated": "2016-06-18 16:02:13",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273711-5263635795-afc70.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273711-5263635795-afc70.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273711-5263635795-afc70.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273711-5263635795-afc70.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273711-5263635795-afc70.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273711-5263635795-afc70.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273711-5263635795-afc70.jpg"
+    },
+    "name": "Mongoose Net Ltd.",
+    "site_detail_url": "https://comicvine.gamespot.com/mongoose-net-ltd/4010-7483/",
+    "teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-62579/",
+        "id": 62579,
+        "name": "Solar Defenders",
+        "site_detail_url": "https://comicvine.gamespot.com/solar-defenders/4060-62579/"
+      }
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91377/",
+        "id": 91377,
+        "name": "ComixPlay",
+        "site_detail_url": "https://comicvine.gamespot.com/comix-play/4050-91377/"
+      }
+    ],
+    "id": 7483
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7484/",
+    "date_added": "2016-06-18 16:02:33",
+    "date_last_updated": "2016-06-18 16:02:33",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273713-1609533800-adf48.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273713-1609533800-adf48.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273713-1609533800-adf48.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273713-1609533800-adf48.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273713-1609533800-adf48.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273713-1609533800-adf48.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273713-1609533800-adf48.jpg"
+    },
+    "name": "JagerPops",
+    "site_detail_url": "https://comicvine.gamespot.com/jager-pops/4010-7484/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91378/",
+        "id": 91378,
+        "name": "Eternal Man",
+        "site_detail_url": "https://comicvine.gamespot.com/eternal-man/4050-91378/"
+      }
+    ],
+    "id": 7484
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7485/",
+    "date_added": "2016-06-18 16:02:52",
+    "date_last_updated": "2016-06-18 16:02:52",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273715-6031441937-93fc8.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273715-6031441937-93fc8.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273715-6031441937-93fc8.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273715-6031441937-93fc8.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273715-6031441937-93fc8.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273715-6031441937-93fc8.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273715-6031441937-93fc8.jpg"
+    },
+    "name": "Strangedays Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/strangedays-comics/4010-7485/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91379/",
+        "id": 91379,
+        "name": "Gods of Kennar",
+        "site_detail_url": "https://comicvine.gamespot.com/gods-of-kennar/4050-91379/"
+      }
+    ],
+    "id": 7485
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7487/",
+    "date_added": "2016-06-18 16:03:48",
+    "date_last_updated": "2016-06-18 16:03:48",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273718-9276533264-4122a.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273718-9276533264-4122a.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273718-9276533264-4122a.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273718-9276533264-4122a.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273718-9276533264-4122a.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273718-9276533264-4122a.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273718-9276533264-4122a.jpg"
+    },
+    "name": "Dead Lizard Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/dead-lizard-comics/4010-7487/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91381/",
+        "id": 91381,
+        "name": "LizardHeads",
+        "site_detail_url": "https://comicvine.gamespot.com/lizard-heads/4050-91381/"
+      }
+    ],
+    "id": 7487
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7488/",
+    "date_added": "2016-06-18 16:25:35",
+    "date_last_updated": "2016-06-18 16:25:51",
+    "deck": "Publisher from the Netherlands",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273751-panda.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273751-panda.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273751-panda.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273751-panda.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273751-panda.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273751-panda.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273751-panda.jpg"
+    },
+    "name": "Panda",
+    "site_detail_url": "https://comicvine.gamespot.com/panda/4010-7488/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91388/",
+        "id": 91388,
+        "name": "Axa",
+        "site_detail_url": "https://comicvine.gamespot.com/axa/4050-91388/"
+      }
+    ],
+    "id": 7488
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7489/",
+    "date_added": "2016-06-18 16:44:14",
+    "date_last_updated": "2016-06-18 16:44:54",
+    "deck": "Belgian publisher",
+    "description": "<p> Not to be confused with the German publisher <a href=\"/jokers/4010-3644/\" data-ref-id=\"4010-3644\">Jokers</a></p>",
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273800-axe1.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273800-axe1.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273800-axe1.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273800-axe1.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273800-axe1.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273800-axe1.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273800-axe1.jpg"
+    },
+    "name": "Joker",
+    "site_detail_url": "https://comicvine.gamespot.com/joker/4010-7489/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91389/",
+        "id": 91389,
+        "name": "Axelle Parker",
+        "site_detail_url": "https://comicvine.gamespot.com/axelle-parker/4050-91389/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93133/",
+        "id": 93133,
+        "name": "Quels métiers!",
+        "site_detail_url": "https://comicvine.gamespot.com/quels-metiers/4050-93133/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93134/",
+        "id": 93134,
+        "name": "La Restauration",
+        "site_detail_url": "https://comicvine.gamespot.com/la-restauration/4050-93134/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93136/",
+        "id": 93136,
+        "name": "Les Avocats",
+        "site_detail_url": "https://comicvine.gamespot.com/les-avocats/4050-93136/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93137/",
+        "id": 93137,
+        "name": "Tout sur les Mairies",
+        "site_detail_url": "https://comicvine.gamespot.com/tout-sur-les-mairies/4050-93137/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93138/",
+        "id": 93138,
+        "name": "Tout sur les Agents Immobiliers",
+        "site_detail_url": "https://comicvine.gamespot.com/tout-sur-les-agents-immobiliers/4050-93138/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93139/",
+        "id": 93139,
+        "name": "Tout sur les Banquiers",
+        "site_detail_url": "https://comicvine.gamespot.com/tout-sur-les-banquiers/4050-93139/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93140/",
+        "id": 93140,
+        "name": "Tout sur les Routiers",
+        "site_detail_url": "https://comicvine.gamespot.com/tout-sur-les-routiers/4050-93140/"
+      }
+    ],
+    "id": 7489
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7490/",
+    "date_added": "2016-06-18 16:48:42",
+    "date_last_updated": "2016-06-18 16:48:43",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273816-8863241539-6602f.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273816-8863241539-6602f.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273816-8863241539-6602f.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273816-8863241539-6602f.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273816-8863241539-6602f.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273816-8863241539-6602f.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273816-8863241539-6602f.jpg"
+    },
+    "name": "Le Cirque Studios",
+    "site_detail_url": "https://comicvine.gamespot.com/le-cirque-studios/4010-7490/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91399/",
+        "id": 91399,
+        "name": "Reboot",
+        "site_detail_url": "https://comicvine.gamespot.com/reboot/4050-91399/"
+      }
+    ],
+    "id": 7490
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7491/",
+    "date_added": "2016-06-18 16:49:22",
+    "date_last_updated": "2016-06-18 16:49:22",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273817-7682890825-e49fb.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273817-7682890825-e49fb.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273817-7682890825-e49fb.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273817-7682890825-e49fb.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273817-7682890825-e49fb.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273817-7682890825-e49fb.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273817-7682890825-e49fb.jpg"
+    },
+    "name": "Comfort and Adam",
+    "site_detail_url": "https://comicvine.gamespot.com/comfort-and-adam/4010-7491/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131078/",
+        "id": 131078,
+        "name": "Hope Sage",
+        "site_detail_url": "https://comicvine.gamespot.com/hope-sage/4005-131078/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131165/",
+        "id": 131165,
+        "name": "Motherboard",
+        "site_detail_url": "https://comicvine.gamespot.com/motherboard/4005-131165/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131166/",
+        "id": 131166,
+        "name": "Telepath",
+        "site_detail_url": "https://comicvine.gamespot.com/telepath/4005-131166/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131649/",
+        "id": 131649,
+        "name": "Becky",
+        "site_detail_url": "https://comicvine.gamespot.com/becky/4005-131649/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131650/",
+        "id": 131650,
+        "name": "Jane",
+        "site_detail_url": "https://comicvine.gamespot.com/jane/4005-131650/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-37549/",
+        "id": 37549,
+        "name": "Rainbow in the Dark",
+        "site_detail_url": "https://comicvine.gamespot.com/rainbow-in-the-dark/4050-37549/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91403/",
+        "id": 91403,
+        "name": "The Uniques",
+        "site_detail_url": "https://comicvine.gamespot.com/the-uniques/4050-91403/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97442/",
+        "id": 97442,
+        "name": "The Uniques: Paint it Black",
+        "site_detail_url": "https://comicvine.gamespot.com/the-uniques-paint-it-black/4050-97442/"
+      }
+    ],
+    "id": 7491
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7492/",
+    "date_added": "2016-06-18 17:04:46",
+    "date_last_updated": "2016-06-18 17:05:02",
+    "deck": "Polish publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273850-manz.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273850-manz.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273850-manz.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273850-manz.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273850-manz.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273850-manz.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273850-manz.jpg"
+    },
+    "name": "Manzoku",
+    "site_detail_url": "https://comicvine.gamespot.com/manzoku/4010-7492/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91404/",
+        "id": 91404,
+        "name": "Y ostatni z mężczyzn",
+        "site_detail_url": "https://comicvine.gamespot.com/y-ostatni-z-mezczyzn/4050-91404/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91405/",
+        "id": 91405,
+        "name": "Rork",
+        "site_detail_url": "https://comicvine.gamespot.com/rork/4050-91405/"
+      }
+    ],
+    "id": 7492
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7493/",
+    "date_added": "2016-06-18 17:58:10",
+    "date_last_updated": "2016-06-18 17:58:11",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273976-0241734173-ca5dd.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273976-0241734173-ca5dd.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273976-0241734173-ca5dd.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273976-0241734173-ca5dd.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273976-0241734173-ca5dd.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273976-0241734173-ca5dd.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273976-0241734173-ca5dd.jpg"
+    },
+    "name": "Batten Press",
+    "site_detail_url": "https://comicvine.gamespot.com/batten-press/4010-7493/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131046/",
+        "id": 131046,
+        "name": "Clancy Wallencheck",
+        "site_detail_url": "https://comicvine.gamespot.com/clancy-wallencheck/4005-131046/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131053/",
+        "id": 131053,
+        "name": "Kathryn Monroe",
+        "site_detail_url": "https://comicvine.gamespot.com/kathryn-monroe/4005-131053/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131055/",
+        "id": 131055,
+        "name": "Dina Leigh",
+        "site_detail_url": "https://comicvine.gamespot.com/dina-leigh/4005-131055/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131093/",
+        "id": 131093,
+        "name": "Oliver",
+        "site_detail_url": "https://comicvine.gamespot.com/oliver/4005-131093/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131094/",
+        "id": 131094,
+        "name": "Lady Mary Cademus",
+        "site_detail_url": "https://comicvine.gamespot.com/lady-mary-cademus/4005-131094/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131096/",
+        "id": 131096,
+        "name": "Steph Connisbee",
+        "site_detail_url": "https://comicvine.gamespot.com/steph-connisbee/4005-131096/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131104/",
+        "id": 131104,
+        "name": "Ben Ashodi",
+        "site_detail_url": "https://comicvine.gamespot.com/ben-ashodi/4005-131104/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131140/",
+        "id": 131140,
+        "name": "Roy Wallis",
+        "site_detail_url": "https://comicvine.gamespot.com/roy-wallis/4005-131140/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131141/",
+        "id": 131141,
+        "name": "Joachim Bischoff",
+        "site_detail_url": "https://comicvine.gamespot.com/joachim-bischoff/4005-131141/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91414/",
+        "id": 91414,
+        "name": "Band of Butchers",
+        "site_detail_url": "https://comicvine.gamespot.com/band-of-butchers/4050-91414/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91423/",
+        "id": 91423,
+        "name": "Historia",
+        "site_detail_url": "https://comicvine.gamespot.com/historia/4050-91423/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91425/",
+        "id": 91425,
+        "name": "The Immaculate Abortion of Dina Leigh",
+        "site_detail_url": "https://comicvine.gamespot.com/the-immaculate-abortion-of-dina-leigh/4050-91425/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91454/",
+        "id": 91454,
+        "name": "The Lament of Lady Mary",
+        "site_detail_url": "https://comicvine.gamespot.com/the-lament-of-lady-mary/4050-91454/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91458/",
+        "id": 91458,
+        "name": "Operation Solomon",
+        "site_detail_url": "https://comicvine.gamespot.com/operation-solomon/4050-91458/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91464/",
+        "id": 91464,
+        "name": "Stolen",
+        "site_detail_url": "https://comicvine.gamespot.com/stolen/4050-91464/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91480/",
+        "id": 91480,
+        "name": "Knights of Cademus",
+        "site_detail_url": "https://comicvine.gamespot.com/knights-of-cademus/4050-91480/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91509/",
+        "id": 91509,
+        "name": "The Heart Which Makes Us",
+        "site_detail_url": "https://comicvine.gamespot.com/the-heart-which-makes-us/4050-91509/"
+      }
+    ],
+    "id": 7493
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7494/",
+    "date_added": "2016-06-18 17:58:35",
+    "date_last_updated": "2016-06-18 17:58:35",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273977-7653775496-26536.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273977-7653775496-26536.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273977-7653775496-26536.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273977-7653775496-26536.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273977-7653775496-26536.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273977-7653775496-26536.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273977-7653775496-26536.jpg"
+    },
+    "name": "Shades of Vengeance",
+    "site_detail_url": "https://comicvine.gamespot.com/shades-of-vengeance/4010-7494/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91418/",
+        "id": 91418,
+        "name": "Era: The Consortium - Counting Down From One",
+        "site_detail_url": "https://comicvine.gamespot.com/era-the-consortium-counting-down-from-one/4050-91418/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91419/",
+        "id": 91419,
+        "name": "Era: The Consortium - The Last Stand of Stiletto Unit",
+        "site_detail_url": "https://comicvine.gamespot.com/era-the-consortium-the-last-stand-of-stiletto-unit/4050-91419/"
+      }
+    ],
+    "id": 7494
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7495/",
+    "date_added": "2016-06-18 17:58:56",
+    "date_last_updated": "2016-06-18 17:58:57",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273978-4387860581-ed4b9.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273978-4387860581-ed4b9.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273978-4387860581-ed4b9.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273978-4387860581-ed4b9.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273978-4387860581-ed4b9.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273978-4387860581-ed4b9.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273978-4387860581-ed4b9.jpg"
+    },
+    "name": "Olympian Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/olympian-comics/4010-7495/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131051/",
+        "id": 131051,
+        "name": "Sid the Squirrel",
+        "site_detail_url": "https://comicvine.gamespot.com/sid-the-squirrel/4005-131051/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91420/",
+        "id": 91420,
+        "name": "Grim n' Gritty",
+        "site_detail_url": "https://comicvine.gamespot.com/grim-n-gritty/4050-91420/"
+      }
+    ],
+    "id": 7495
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7496/",
+    "date_added": "2016-06-18 17:59:25",
+    "date_last_updated": "2016-06-18 17:59:26",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5273979-1768817015-b42aa.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5273979-1768817015-b42aa.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5273979-1768817015-b42aa.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5273979-1768817015-b42aa.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5273979-1768817015-b42aa.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5273979-1768817015-b42aa.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5273979-1768817015-b42aa.jpg"
+    },
+    "name": "Admiral Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/admiral-comics/4010-7496/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131058/",
+        "id": 131058,
+        "name": "Page",
+        "site_detail_url": "https://comicvine.gamespot.com/page/4005-131058/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131059/",
+        "id": 131059,
+        "name": "dupe",
+        "site_detail_url": "https://comicvine.gamespot.com/dupe/4005-131059/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91427/",
+        "id": 91427,
+        "name": "No Holds Bard",
+        "site_detail_url": "https://comicvine.gamespot.com/no-holds-bard/4050-91427/"
+      }
+    ],
+    "id": 7496
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7497/",
+    "date_added": "2016-06-18 19:04:53",
+    "date_last_updated": "2016-06-18 19:04:54",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274161-3932648497-0ebbc.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274161-3932648497-0ebbc.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274161-3932648497-0ebbc.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274161-3932648497-0ebbc.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274161-3932648497-0ebbc.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274161-3932648497-0ebbc.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274161-3932648497-0ebbc.jpg"
+    },
+    "name": "LabRat Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/labrat-comics/4010-7497/",
+    "teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-62614/",
+        "id": 62614,
+        "name": "Pineapple Chunks",
+        "site_detail_url": "https://comicvine.gamespot.com/pineapple-chunks/4060-62614/"
+      }
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131081/",
+        "id": 131081,
+        "name": "Cordelia Swift",
+        "site_detail_url": "https://comicvine.gamespot.com/cordelia-swift/4005-131081/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91440/",
+        "id": 91440,
+        "name": "The Adventures of Cordelia Swift",
+        "site_detail_url": "https://comicvine.gamespot.com/the-adventures-of-cordelia-swift/4050-91440/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91503/",
+        "id": 91503,
+        "name": "Chunks",
+        "site_detail_url": "https://comicvine.gamespot.com/chunks/4050-91503/"
+      }
+    ],
+    "id": 7497
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7498/",
+    "date_added": "2016-06-18 19:05:23",
+    "date_last_updated": "2016-06-18 19:05:24",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274163-8192329169-b4c6e.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274163-8192329169-b4c6e.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274163-8192329169-b4c6e.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274163-8192329169-b4c6e.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274163-8192329169-b4c6e.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274163-8192329169-b4c6e.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274163-8192329169-b4c6e.jpg"
+    },
+    "name": "YWJ Entertainment",
+    "site_detail_url": "https://comicvine.gamespot.com/ywj-entertainment/4010-7498/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131082/",
+        "id": 131082,
+        "name": "Adele Leigh Voss",
+        "site_detail_url": "https://comicvine.gamespot.com/adele-leigh-voss/4005-131082/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91441/",
+        "id": 91441,
+        "name": "ALV: The World's Only Super Human",
+        "site_detail_url": "https://comicvine.gamespot.com/alv-the-worlds-only-super-human/4050-91441/"
+      }
+    ],
+    "id": 7498
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7499/",
+    "date_added": "2016-06-18 19:05:44",
+    "date_last_updated": "2016-06-18 19:05:45",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274166-4776188849-37cb6.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274166-4776188849-37cb6.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274166-4776188849-37cb6.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274166-4776188849-37cb6.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274166-4776188849-37cb6.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274166-4776188849-37cb6.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274166-4776188849-37cb6.jpg"
+    },
+    "name": "Pilot Studios",
+    "site_detail_url": "https://comicvine.gamespot.com/pilot-studios/4010-7499/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131083/",
+        "id": 131083,
+        "name": "Captain Greyfeather",
+        "site_detail_url": "https://comicvine.gamespot.com/captain-greyfeather/4005-131083/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91443/",
+        "id": 91443,
+        "name": "The Carriers: Pirate Bay",
+        "site_detail_url": "https://comicvine.gamespot.com/the-carriers-pirate-bay/4050-91443/"
+      }
+    ],
+    "id": 7499
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7500/",
+    "date_added": "2016-06-18 19:06:06",
+    "date_last_updated": "2016-06-18 19:06:07",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274167-6684854328-26563.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274167-6684854328-26563.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274167-6684854328-26563.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274167-6684854328-26563.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274167-6684854328-26563.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274167-6684854328-26563.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274167-6684854328-26563.jpg"
+    },
+    "name": "YenShia",
+    "site_detail_url": "https://comicvine.gamespot.com/yen-shia/4010-7500/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91444/",
+        "id": 91444,
+        "name": "Cheng Beng (Tomb Sweeping Day)",
+        "site_detail_url": "https://comicvine.gamespot.com/cheng-beng-tomb-sweeping-day/4050-91444/"
+      }
+    ],
+    "id": 7500
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7501/",
+    "date_added": "2016-06-18 19:06:32",
+    "date_last_updated": "2016-06-18 19:06:32",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274168-4153840537-1102f.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274168-4153840537-1102f.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274168-4153840537-1102f.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274168-4153840537-1102f.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274168-4153840537-1102f.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274168-4153840537-1102f.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274168-4153840537-1102f.jpg"
+    },
+    "name": "Oort Cloud Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/oort-cloud-comics/4010-7501/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131084/",
+        "id": 131084,
+        "name": "George Hubert Wilkins",
+        "site_detail_url": "https://comicvine.gamespot.com/george-hubert-wilkins/4005-131084/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131085/",
+        "id": 131085,
+        "name": "Moe Berg",
+        "site_detail_url": "https://comicvine.gamespot.com/moe-berg/4005-131085/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91445/",
+        "id": 91445,
+        "name": "Dubious Tales",
+        "site_detail_url": "https://comicvine.gamespot.com/dubious-tales/4050-91445/"
+      }
+    ],
+    "id": 7501
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7502/",
+    "date_added": "2016-06-18 19:06:59",
+    "date_last_updated": "2016-06-18 19:07:00",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274171-0886303842-afea9.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274171-0886303842-afea9.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274171-0886303842-afea9.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274171-0886303842-afea9.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274171-0886303842-afea9.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274171-0886303842-afea9.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274171-0886303842-afea9.jpg"
+    },
+    "name": "Ginger Jam Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/ginger-jam-comics/4010-7502/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131086/",
+        "id": 131086,
+        "name": "Dawn",
+        "site_detail_url": "https://comicvine.gamespot.com/dawn/4005-131086/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131087/",
+        "id": 131087,
+        "name": "Eric",
+        "site_detail_url": "https://comicvine.gamespot.com/eric/4005-131087/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91447/",
+        "id": 91447,
+        "name": "Freedom Scorned",
+        "site_detail_url": "https://comicvine.gamespot.com/freedom-scorned/4050-91447/"
+      }
+    ],
+    "id": 7502
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7503/",
+    "date_added": "2016-06-18 19:07:22",
+    "date_last_updated": "2016-06-18 19:07:23",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274172-4393081877-2746c.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274172-4393081877-2746c.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274172-4393081877-2746c.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274172-4393081877-2746c.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274172-4393081877-2746c.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274172-4393081877-2746c.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274172-4393081877-2746c.jpg"
+    },
+    "name": "About Time Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/about-time-comics/4010-7503/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131088/",
+        "id": 131088,
+        "name": "Austin Jackson",
+        "site_detail_url": "https://comicvine.gamespot.com/austin-jackson/4005-131088/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91449/",
+        "id": 91449,
+        "name": "Godsend",
+        "site_detail_url": "https://comicvine.gamespot.com/godsend/4050-91449/"
+      }
+    ],
+    "id": 7503
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7504/",
+    "date_added": "2016-06-18 19:07:45",
+    "date_last_updated": "2016-06-18 19:07:46",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274174-8069357951-1dd0d.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274174-8069357951-1dd0d.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274174-8069357951-1dd0d.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274174-8069357951-1dd0d.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274174-8069357951-1dd0d.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274174-8069357951-1dd0d.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274174-8069357951-1dd0d.jpg"
+    },
+    "name": "Talento Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/talento-comics/4010-7504/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131089/",
+        "id": 131089,
+        "name": "Mazzari",
+        "site_detail_url": "https://comicvine.gamespot.com/mazzari/4005-131089/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91452/",
+        "id": 91452,
+        "name": "Indigo Horizon",
+        "site_detail_url": "https://comicvine.gamespot.com/indigo-horizon/4050-91452/"
+      }
+    ],
+    "id": 7504
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7505/",
+    "date_added": "2016-06-18 19:08:06",
+    "date_last_updated": "2016-06-18 19:08:06",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274175-7389280938-9902d.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274175-7389280938-9902d.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274175-7389280938-9902d.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274175-7389280938-9902d.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274175-7389280938-9902d.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274175-7389280938-9902d.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274175-7389280938-9902d.jpg"
+    },
+    "name": "BDP Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/bdp-comics/4010-7505/",
+    "teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-62607/",
+        "id": 62607,
+        "name": "Cobb City Police",
+        "site_detail_url": "https://comicvine.gamespot.com/cobb-city-police/4060-62607/"
+      }
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131090/",
+        "id": 131090,
+        "name": "Linda O'Meilley",
+        "site_detail_url": "https://comicvine.gamespot.com/linda-omeilley/4005-131090/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131091/",
+        "id": 131091,
+        "name": "Machine Gun Kelly",
+        "site_detail_url": "https://comicvine.gamespot.com/machine-gun-kelly/4005-131091/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131092/",
+        "id": 131092,
+        "name": "Jon Pay",
+        "site_detail_url": "https://comicvine.gamespot.com/jon-pay/4005-131092/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91453/",
+        "id": 91453,
+        "name": "Jon Pay Private Investigator",
+        "site_detail_url": "https://comicvine.gamespot.com/jon-pay-private-investigator/4050-91453/"
+      }
+    ],
+    "id": 7505
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7506/",
+    "date_added": "2016-06-18 19:08:26",
+    "date_last_updated": "2016-06-18 19:08:27",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274177-8432908748-09a88.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274177-8432908748-09a88.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274177-8432908748-09a88.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274177-8432908748-09a88.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274177-8432908748-09a88.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274177-8432908748-09a88.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274177-8432908748-09a88.jpg"
+    },
+    "name": "eMartinGay",
+    "site_detail_url": "https://comicvine.gamespot.com/e-martin-gay/4010-7506/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131095/",
+        "id": 131095,
+        "name": "Hákon",
+        "site_detail_url": "https://comicvine.gamespot.com/hakon/4005-131095/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91455/",
+        "id": 91455,
+        "name": "Little Odd",
+        "site_detail_url": "https://comicvine.gamespot.com/little-odd/4050-91455/"
+      }
+    ],
+    "id": 7506
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7507/",
+    "date_added": "2016-06-18 19:08:45",
+    "date_last_updated": "2016-06-18 19:08:46",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274178-1505652283-5d643.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274178-1505652283-5d643.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274178-1505652283-5d643.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274178-1505652283-5d643.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274178-1505652283-5d643.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274178-1505652283-5d643.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274178-1505652283-5d643.jpg"
+    },
+    "name": "Big Chomper Studios",
+    "site_detail_url": "https://comicvine.gamespot.com/big-chomper-studios/4010-7507/",
+    "teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-62608/",
+        "id": 62608,
+        "name": "Agency for Super-Normal Affairs",
+        "site_detail_url": "https://comicvine.gamespot.com/agency-for-super-normal-affairs/4060-62608/"
+      }
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91457/",
+        "id": 91457,
+        "name": "Normalville",
+        "site_detail_url": "https://comicvine.gamespot.com/normalville/4050-91457/"
+      }
+    ],
+    "id": 7507
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7508/",
+    "date_added": "2016-06-18 19:09:10",
+    "date_last_updated": "2016-06-18 19:09:10",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274181-6960167833-e9de7.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274181-6960167833-e9de7.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274181-6960167833-e9de7.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274181-6960167833-e9de7.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274181-6960167833-e9de7.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274181-6960167833-e9de7.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274181-6960167833-e9de7.jpg"
+    },
+    "name": "Big Blue Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/big-blue-comics/4010-7508/",
+    "teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-62609/",
+        "id": 62609,
+        "name": "The Resistants",
+        "site_detail_url": "https://comicvine.gamespot.com/the-resistants/4060-62609/"
+      }
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131097/",
+        "id": 131097,
+        "name": "Interval",
+        "site_detail_url": "https://comicvine.gamespot.com/interval/4005-131097/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91459/",
+        "id": 91459,
+        "name": "The Resistants",
+        "site_detail_url": "https://comicvine.gamespot.com/the-resistants/4050-91459/"
+      }
+    ],
+    "id": 7508
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7509/",
+    "date_added": "2016-06-18 19:09:34",
+    "date_last_updated": "2016-06-18 19:09:35",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274182-3669315852-eabc7.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274182-3669315852-eabc7.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274182-3669315852-eabc7.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274182-3669315852-eabc7.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274182-3669315852-eabc7.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274182-3669315852-eabc7.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274182-3669315852-eabc7.jpg"
+    },
+    "name": "George Books Books",
+    "site_detail_url": "https://comicvine.gamespot.com/george-books-books/4010-7509/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131099/",
+        "id": 131099,
+        "name": "Ingela",
+        "site_detail_url": "https://comicvine.gamespot.com/ingela/4005-131099/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91461/",
+        "id": 91461,
+        "name": "Scallywags",
+        "site_detail_url": "https://comicvine.gamespot.com/scallywags/4050-91461/"
+      }
+    ],
+    "id": 7509
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7510/",
+    "date_added": "2016-06-18 19:09:57",
+    "date_last_updated": "2016-06-18 19:09:58",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274185-6494615153-57bb9.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274185-6494615153-57bb9.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274185-6494615153-57bb9.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274185-6494615153-57bb9.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274185-6494615153-57bb9.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274185-6494615153-57bb9.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274185-6494615153-57bb9.jpg"
+    },
+    "name": "Couscous Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/couscous-comics/4010-7510/",
+    "teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-62610/",
+        "id": 62610,
+        "name": "Project Skin Horse",
+        "site_detail_url": "https://comicvine.gamespot.com/project-skin-horse/4060-62610/"
+      }
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131101/",
+        "id": 131101,
+        "name": "Dr. Tip Wilkin",
+        "site_detail_url": "https://comicvine.gamespot.com/dr-tip-wilkin/4005-131101/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131102/",
+        "id": 131102,
+        "name": "Unity",
+        "site_detail_url": "https://comicvine.gamespot.com/unity/4005-131102/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131103/",
+        "id": 131103,
+        "name": "Sweetheart",
+        "site_detail_url": "https://comicvine.gamespot.com/sweetheart/4005-131103/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131185/",
+        "id": 131185,
+        "name": "Artie",
+        "site_detail_url": "https://comicvine.gamespot.com/artie/4005-131185/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131186/",
+        "id": 131186,
+        "name": "Mell",
+        "site_detail_url": "https://comicvine.gamespot.com/mell/4005-131186/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131187/",
+        "id": 131187,
+        "name": "Dave Conspiracy",
+        "site_detail_url": "https://comicvine.gamespot.com/dave-conspiracy/4005-131187/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131188/",
+        "id": 131188,
+        "name": "Helen Narbon",
+        "site_detail_url": "https://comicvine.gamespot.com/helen-narbon/4005-131188/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91463/",
+        "id": 91463,
+        "name": "Skin Horse",
+        "site_detail_url": "https://comicvine.gamespot.com/skin-horse/4050-91463/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91516/",
+        "id": 91516,
+        "name": "Narbonic: The Perfect Collection",
+        "site_detail_url": "https://comicvine.gamespot.com/narbonic-the-perfect-collection/4050-91516/"
+      }
+    ],
+    "id": 7510
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7511/",
+    "date_added": "2016-06-18 19:10:21",
+    "date_last_updated": "2016-06-18 19:10:22",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274186-1149428285-4e4c4.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274186-1149428285-4e4c4.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274186-1149428285-4e4c4.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274186-1149428285-4e4c4.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274186-1149428285-4e4c4.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274186-1149428285-4e4c4.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274186-1149428285-4e4c4.jpg"
+    },
+    "name": "Sex and Monsters",
+    "site_detail_url": "https://comicvine.gamespot.com/sex-and-monsters/4010-7511/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131105/",
+        "id": 131105,
+        "name": "Gorgantus",
+        "site_detail_url": "https://comicvine.gamespot.com/gorgantus/4005-131105/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131106/",
+        "id": 131106,
+        "name": "Devil Girl",
+        "site_detail_url": "https://comicvine.gamespot.com/devil-girl/4005-131106/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131107/",
+        "id": 131107,
+        "name": "The Huntress",
+        "site_detail_url": "https://comicvine.gamespot.com/the-huntress/4005-131107/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131108/",
+        "id": 131108,
+        "name": "Super General",
+        "site_detail_url": "https://comicvine.gamespot.com/super-general/4005-131108/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91465/",
+        "id": 91465,
+        "name": "Super Horror",
+        "site_detail_url": "https://comicvine.gamespot.com/super-horror/4050-91465/"
+      }
+    ],
+    "id": 7511
+  },
+  {
+    "aliases": "Gold Rush Comics",
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7512/",
+    "date_added": "2016-06-18 21:58:12",
+    "date_last_updated": "2016-06-18 21:58:27",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274455-8217746117-686b3.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274455-8217746117-686b3.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274455-8217746117-686b3.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274455-8217746117-686b3.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274455-8217746117-686b3.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274455-8217746117-686b3.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274455-8217746117-686b3.jpg"
+    },
+    "name": "GoldRush Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/goldrush-comics/4010-7512/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131133/",
+        "id": 131133,
+        "name": "Scout",
+        "site_detail_url": "https://comicvine.gamespot.com/scout/4005-131133/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91472/",
+        "id": 91472,
+        "name": "After the Gold Rush",
+        "site_detail_url": "https://comicvine.gamespot.com/after-the-gold-rush/4050-91472/"
+      }
+    ],
+    "id": 7512
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7513/",
+    "date_added": "2016-06-18 21:59:08",
+    "date_last_updated": "2016-06-18 21:59:08",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274456-7801777767-22cbc.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274456-7801777767-22cbc.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274456-7801777767-22cbc.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274456-7801777767-22cbc.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274456-7801777767-22cbc.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274456-7801777767-22cbc.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274456-7801777767-22cbc.jpg"
+    },
+    "name": "GenkiGirl Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/genkigirl-comics/4010-7513/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131137/",
+        "id": 131137,
+        "name": "Georgia",
+        "site_detail_url": "https://comicvine.gamespot.com/georgia/4005-131137/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91477/",
+        "id": 91477,
+        "name": "Fine Sometimes Rain",
+        "site_detail_url": "https://comicvine.gamespot.com/fine-sometimes-rain/4050-91477/"
+      }
+    ],
+    "id": 7513
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7514/",
+    "date_added": "2016-06-18 21:59:45",
+    "date_last_updated": "2016-06-18 21:59:45",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274457-0920035097-8a68b.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274457-0920035097-8a68b.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274457-0920035097-8a68b.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274457-0920035097-8a68b.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274457-0920035097-8a68b.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274457-0920035097-8a68b.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274457-0920035097-8a68b.jpg"
+    },
+    "name": "POW! Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/pow-comics/4010-7514/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131142/",
+        "id": 131142,
+        "name": "Lionman",
+        "site_detail_url": "https://comicvine.gamespot.com/lionman/4005-131142/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91481/",
+        "id": 91481,
+        "name": "The Lionman",
+        "site_detail_url": "https://comicvine.gamespot.com/the-lionman/4050-91481/"
+      }
+    ],
+    "id": 7514
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7515/",
+    "date_added": "2016-06-18 22:01:12",
+    "date_last_updated": "2016-06-18 22:01:12",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274459-4807515230-9f5ad.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274459-4807515230-9f5ad.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274459-4807515230-9f5ad.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274459-4807515230-9f5ad.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274459-4807515230-9f5ad.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274459-4807515230-9f5ad.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274459-4807515230-9f5ad.jpg"
+    },
+    "name": "Cup of Stars Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/cup-of-stars-comics/4010-7515/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91484/",
+        "id": 91484,
+        "name": "The Octopus",
+        "site_detail_url": "https://comicvine.gamespot.com/the-octopus/4050-91484/"
+      }
+    ],
+    "id": 7515
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7516/",
+    "date_added": "2016-06-18 22:01:53",
+    "date_last_updated": "2016-06-18 22:01:53",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274461-8494587808-4c76b.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274461-8494587808-4c76b.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274461-8494587808-4c76b.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274461-8494587808-4c76b.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274461-8494587808-4c76b.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274461-8494587808-4c76b.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274461-8494587808-4c76b.jpg"
+    },
+    "name": "Squatch Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/squatch-comics/4010-7516/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131147/",
+        "id": 131147,
+        "name": "Mike",
+        "site_detail_url": "https://comicvine.gamespot.com/mike/4005-131147/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131148/",
+        "id": 131148,
+        "name": "Hank",
+        "site_detail_url": "https://comicvine.gamespot.com/hank/4005-131148/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91487/",
+        "id": 91487,
+        "name": "Pump-Action Sunset",
+        "site_detail_url": "https://comicvine.gamespot.com/pumpaction-sunset/4050-91487/"
+      }
+    ],
+    "id": 7516
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7517/",
+    "date_added": "2016-06-18 22:02:19",
+    "date_last_updated": "2016-06-18 22:02:20",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274462-3794183647-ef50a.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274462-3794183647-ef50a.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274462-3794183647-ef50a.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274462-3794183647-ef50a.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274462-3794183647-ef50a.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274462-3794183647-ef50a.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274462-3794183647-ef50a.jpg"
+    },
+    "name": "Atelier Kiecker GmbH",
+    "site_detail_url": "https://comicvine.gamespot.com/atelier-kiecker-gmbh/4010-7517/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131149/",
+        "id": 131149,
+        "name": "Noctus",
+        "site_detail_url": "https://comicvine.gamespot.com/noctus/4005-131149/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131150/",
+        "id": 131150,
+        "name": "Loan",
+        "site_detail_url": "https://comicvine.gamespot.com/loan/4005-131150/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131151/",
+        "id": 131151,
+        "name": "Uri",
+        "site_detail_url": "https://comicvine.gamespot.com/uri/4005-131151/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91488/",
+        "id": 91488,
+        "name": "Ria: The Lightclan Chronicles: Seed of Hope",
+        "site_detail_url": "https://comicvine.gamespot.com/ria-the-lightclan-chronicles-seed-of-hope/4050-91488/"
+      }
+    ],
+    "id": 7517
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7518/",
+    "date_added": "2016-06-18 22:02:45",
+    "date_last_updated": "2016-06-18 22:02:46",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274463-1583476586-841db.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274463-1583476586-841db.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274463-1583476586-841db.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274463-1583476586-841db.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274463-1583476586-841db.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274463-1583476586-841db.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274463-1583476586-841db.jpg"
+    },
+    "name": "Sketcher Online",
+    "site_detail_url": "https://comicvine.gamespot.com/sketcher-online/4010-7518/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131152/",
+        "id": 131152,
+        "name": "McCluck",
+        "site_detail_url": "https://comicvine.gamespot.com/mccluck/4005-131152/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131153/",
+        "id": 131153,
+        "name": "Jonny",
+        "site_detail_url": "https://comicvine.gamespot.com/jonny/4005-131153/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91490/",
+        "id": 91490,
+        "name": "Rooster Rumble Fight Club",
+        "site_detail_url": "https://comicvine.gamespot.com/rooster-rumble-fight-club/4050-91490/"
+      }
+    ],
+    "id": 7518
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7519/",
+    "date_added": "2016-06-18 22:55:44",
+    "date_last_updated": "2016-06-18 22:55:44",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274548-9551626332-84e09.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274548-9551626332-84e09.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274548-9551626332-84e09.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274548-9551626332-84e09.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274548-9551626332-84e09.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274548-9551626332-84e09.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274548-9551626332-84e09.jpg"
+    },
+    "name": "Gunstar Publications",
+    "site_detail_url": "https://comicvine.gamespot.com/gunstar-publications/4010-7519/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91499/",
+        "id": 91499,
+        "name": "The Book of Quietus",
+        "site_detail_url": "https://comicvine.gamespot.com/the-book-of-quietus/4050-91499/"
+      }
+    ],
+    "id": 7519
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7520/",
+    "date_added": "2016-06-18 22:56:26",
+    "date_last_updated": "2016-06-18 22:56:27",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274551-2163408405-7b932.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274551-2163408405-7b932.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274551-2163408405-7b932.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274551-2163408405-7b932.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274551-2163408405-7b932.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274551-2163408405-7b932.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274551-2163408405-7b932.jpg"
+    },
+    "name": "Near 2 Now Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/near-2-now-comics/4010-7520/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91507/",
+        "id": 91507,
+        "name": "Hap Hazard",
+        "site_detail_url": "https://comicvine.gamespot.com/hap-hazard/4050-91507/"
+      }
+    ],
+    "id": 7520
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7521/",
+    "date_added": "2016-06-18 22:57:09",
+    "date_last_updated": "2016-06-18 22:57:10",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274553-5427859434-d9242.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274553-5427859434-d9242.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274553-5427859434-d9242.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274553-5427859434-d9242.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274553-5427859434-d9242.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274553-5427859434-d9242.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274553-5427859434-d9242.jpg"
+    },
+    "name": "Explore Comics, LLC",
+    "site_detail_url": "https://comicvine.gamespot.com/explore-comics-llc/4010-7521/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131179/",
+        "id": 131179,
+        "name": "Scott",
+        "site_detail_url": "https://comicvine.gamespot.com/scott/4005-131179/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131180/",
+        "id": 131180,
+        "name": "Rudy",
+        "site_detail_url": "https://comicvine.gamespot.com/rudy/4005-131180/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131181/",
+        "id": 131181,
+        "name": "Victoria",
+        "site_detail_url": "https://comicvine.gamespot.com/victoria/4005-131181/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91512/",
+        "id": 91512,
+        "name": "I Hate Snakes",
+        "site_detail_url": "https://comicvine.gamespot.com/i-hate-snakes/4050-91512/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91528/",
+        "id": 91528,
+        "name": "Star Missions",
+        "site_detail_url": "https://comicvine.gamespot.com/star-missions/4050-91528/"
+      }
+    ],
+    "id": 7521
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7522/",
+    "date_added": "2016-06-18 22:57:36",
+    "date_last_updated": "2016-06-18 22:57:36",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274555-6656161325-73338.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274555-6656161325-73338.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274555-6656161325-73338.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274555-6656161325-73338.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274555-6656161325-73338.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274555-6656161325-73338.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274555-6656161325-73338.jpg"
+    },
+    "name": "Crystal Sea",
+    "site_detail_url": "https://comicvine.gamespot.com/crystal-sea/4010-7522/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131182/",
+        "id": 131182,
+        "name": "Crispus",
+        "site_detail_url": "https://comicvine.gamespot.com/crispus/4005-131182/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91514/",
+        "id": 91514,
+        "name": "Mask",
+        "site_detail_url": "https://comicvine.gamespot.com/mask/4050-91514/"
+      }
+    ],
+    "id": 7522
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7523/",
+    "date_added": "2016-06-18 22:57:56",
+    "date_last_updated": "2016-06-18 22:57:56",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274556-1383482029-0ce23.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274556-1383482029-0ce23.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274556-1383482029-0ce23.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274556-1383482029-0ce23.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274556-1383482029-0ce23.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274556-1383482029-0ce23.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274556-1383482029-0ce23.jpg"
+    },
+    "name": "Satine Phoenix",
+    "site_detail_url": "https://comicvine.gamespot.com/satine-phoenix/4010-7523/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131189/",
+        "id": 131189,
+        "name": "Sienna McKnight",
+        "site_detail_url": "https://comicvine.gamespot.com/sienna-mcknight/4005-131189/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91517/",
+        "id": 91517,
+        "name": "New Praetorians",
+        "site_detail_url": "https://comicvine.gamespot.com/new-praetorians/4050-91517/"
+      }
+    ],
+    "id": 7523
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7524/",
+    "date_added": "2016-06-19 03:43:04",
+    "date_last_updated": "2016-06-19 03:43:05",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5274758-8552660514-17b38.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5274758-8552660514-17b38.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5274758-8552660514-17b38.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5274758-8552660514-17b38.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5274758-8552660514-17b38.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5274758-8552660514-17b38.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5274758-8552660514-17b38.jpg"
+    },
+    "name": "RGBmono",
+    "site_detail_url": "https://comicvine.gamespot.com/r-g-bmono/4010-7524/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91526/",
+        "id": 91526,
+        "name": "Shades of Black",
+        "site_detail_url": "https://comicvine.gamespot.com/shades-of-black/4050-91526/"
+      }
+    ],
+    "id": 7524
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7525/",
+    "date_added": "2016-06-19 09:56:21",
+    "date_last_updated": "2016-06-19 09:56:22",
+    "deck": "Brazilian publisher.",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5275318-logo_europa.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5275318-logo_europa.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5275318-logo_europa.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5275318-logo_europa.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5275318-logo_europa.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5275318-logo_europa.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5275318-logo_europa.jpg"
+    },
+    "name": "Editora Europa",
+    "site_detail_url": "https://comicvine.gamespot.com/editora-europa/4010-7525/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91599/",
+        "id": 91599,
+        "name": "Mundo dos Super-Heróis",
+        "site_detail_url": "https://comicvine.gamespot.com/mundo-dos-super-herois/4050-91599/"
+      }
+    ],
+    "id": 7525
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7526/",
+    "date_added": "2016-06-19 12:31:17",
+    "date_last_updated": "2016-06-19 12:31:42",
+    "deck": "Publisher from the Netherlands",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5275615-mynx.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5275615-mynx.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5275615-mynx.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5275615-mynx.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5275615-mynx.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5275615-mynx.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5275615-mynx.jpg"
+    },
+    "name": "Mynx",
+    "site_detail_url": "https://comicvine.gamespot.com/mynx/4010-7526/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91604/",
+        "id": 91604,
+        "name": "Artemis Fowl de graphic novel",
+        "site_detail_url": "https://comicvine.gamespot.com/artemis-fowl-de-graphic-novel/4050-91604/"
+      }
+    ],
+    "id": 7526
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7527/",
+    "date_added": "2016-06-19 13:26:26",
+    "date_last_updated": "2016-06-19 13:27:17",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Rodale, Inc.",
+    "site_detail_url": "https://comicvine.gamespot.com/rodale-inc/4010-7527/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91607/",
+        "id": 91607,
+        "name": "Charles Darwin's On the Origin of Species: A Graphic Adaptation",
+        "site_detail_url": "https://comicvine.gamespot.com/charles-darwins-on-the-origin-of-species-a-graphic/4050-91607/"
+      }
+    ],
+    "id": 7527
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7528/",
+    "date_added": "2016-06-19 13:48:33",
+    "date_last_updated": "2016-06-19 13:48:55",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Stages Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/stages-comics/4010-7528/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91610/",
+        "id": 91610,
+        "name": "Constellation Graphics",
+        "site_detail_url": "https://comicvine.gamespot.com/constellation-graphics/4050-91610/"
+      }
+    ],
+    "id": 7528
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7529/",
+    "date_added": "2016-06-19 14:05:02",
+    "date_last_updated": "2016-06-19 14:05:43",
+    "deck": "Canadian publisher",
+    "description": "<p> Not to be confused with the American publisher, <a href=\"/tundra/4010-481/\" data-ref-id=\"4010-481\">Tundra</a></p>",
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Tundra Books",
+    "site_detail_url": "https://comicvine.gamespot.com/tundra-books/4010-7529/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-133297/",
+        "id": 133297,
+        "name": "Jelly",
+        "site_detail_url": "https://comicvine.gamespot.com/jelly/4005-133297/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-133298/",
+        "id": 133298,
+        "name": "Narwhal",
+        "site_detail_url": "https://comicvine.gamespot.com/narwhal/4005-133298/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91611/",
+        "id": 91611,
+        "name": "Good-Bye Marianne: The Graphic Novel",
+        "site_detail_url": "https://comicvine.gamespot.com/goodbye-marianne-the-graphic-novel/4050-91611/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94652/",
+        "id": 94652,
+        "name": "Narwhal: Unicorn of the Sea",
+        "site_detail_url": "https://comicvine.gamespot.com/narwhal-unicorn-of-the-sea/4050-94652/"
+      }
+    ],
+    "id": 7529
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7530/",
+    "date_added": "2016-06-19 14:39:17",
+    "date_last_updated": "2016-06-19 14:40:19",
+    "deck": "Publisher from Mount Prospect, Illinois",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5275752-graph.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5275752-graph.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5275752-graph.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5275752-graph.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5275752-graph.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5275752-graph.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5275752-graph.jpg"
+    },
+    "name": "Graphomania Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/graphomania-comics/4010-7530/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": "Mount Prospect",
+    "location_state": "Illinois",
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91613/",
+        "id": 91613,
+        "name": "Graphomania Comics Presents",
+        "site_detail_url": "https://comicvine.gamespot.com/graphomania-comics-presents/4050-91613/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91614/",
+        "id": 91614,
+        "name": "Death House",
+        "site_detail_url": "https://comicvine.gamespot.com/death-house/4050-91614/"
+      }
+    ],
+    "id": 7530
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7531/",
+    "date_added": "2016-06-19 15:01:22",
+    "date_last_updated": "2016-06-19 15:01:41",
+    "deck": "Publisher from Oskaloosa, Iowa",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "C. L. Barnhouse Co.",
+    "site_detail_url": "https://comicvine.gamespot.com/c-l-barnhouse-co/4010-7531/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": "Oskaloosa",
+    "location_state": "Iowa",
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91616/",
+        "id": 91616,
+        "name": "Funky Winkerbean: The Grass Always Looks Greener on the Other Side of the Football Field!",
+        "site_detail_url": "https://comicvine.gamespot.com/funky-winkerbean-the-grass-always-looks-greener-on/4050-91616/"
+      }
+    ],
+    "id": 7531
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7532/",
+    "date_added": "2016-06-19 15:24:43",
+    "date_last_updated": "2016-06-19 15:25:02",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Wonderful Publishing Company",
+    "site_detail_url": "https://comicvine.gamespot.com/wonderful-publishing-company/4010-7532/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91621/",
+        "id": 91621,
+        "name": "Grave Tales",
+        "site_detail_url": "https://comicvine.gamespot.com/grave-tales/4050-91621/"
+      }
+    ],
+    "id": 7532
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7533/",
+    "date_added": "2016-06-19 16:24:09",
+    "date_last_updated": "2016-06-19 16:24:10",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "ThrillVault Comics Entertainment",
+    "site_detail_url": "https://comicvine.gamespot.com/thrillvault-comics-entertainment/4010-7533/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91625/",
+        "id": 91625,
+        "name": "ThrillVault Anthology",
+        "site_detail_url": "https://comicvine.gamespot.com/thrillvault-anthology/4050-91625/"
+      }
+    ],
+    "id": 7533
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7534/",
+    "date_added": "2016-06-21 20:15:05",
+    "date_last_updated": "2016-06-21 20:15:40",
+    "deck": "Canadian publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Between the Lines",
+    "site_detail_url": "https://comicvine.gamespot.com/between-the-lines/4010-7534/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": "Toronto",
+    "location_state": "Ontario",
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91785/",
+        "id": 91785,
+        "name": "May Day: A Graphic History of Protest",
+        "site_detail_url": "https://comicvine.gamespot.com/may-day-a-graphic-history-of-protest/4050-91785/"
+      }
+    ],
+    "id": 7534
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7535/",
+    "date_added": "2016-06-23 18:56:01",
+    "date_last_updated": "2016-06-23 18:57:30",
+    "deck": "Norwegian publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Star Forlag",
+    "site_detail_url": "https://comicvine.gamespot.com/star-forlag/4010-7535/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+
+    ],
+    "id": 7535
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7536/",
+    "date_added": "2016-06-24 20:13:13",
+    "date_last_updated": "2016-06-24 20:13:28",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Fulcrum Books",
+    "site_detail_url": "https://comicvine.gamespot.com/fulcrum-books/4010-7536/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+
+    ],
+    "id": 7536
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7537/",
+    "date_added": "2016-06-25 15:50:59",
+    "date_last_updated": "2016-06-25 15:51:20",
+    "deck": "German publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5287358-hea1.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5287358-hea1.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5287358-hea1.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5287358-hea1.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5287358-hea1.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5287358-hea1.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5287358-hea1.jpg"
+    },
+    "name": "März Verlag",
+    "site_detail_url": "https://comicvine.gamespot.com/marz-verlag/4010-7537/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91832/",
+        "id": 91832,
+        "name": "Head Comix",
+        "site_detail_url": "https://comicvine.gamespot.com/head-comix/4050-91832/"
+      }
+    ],
+    "id": 7537
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7538/",
+    "date_added": "2016-06-25 17:14:47",
+    "date_last_updated": "2016-06-25 17:24:56",
+    "deck": "French publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5287535-hea.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5287535-hea.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5287535-hea.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5287535-hea.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5287535-hea.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5287535-hea.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5287535-hea.jpg"
+    },
+    "name": "Éditions Polystyrène",
+    "site_detail_url": "https://comicvine.gamespot.com/editions-polystyrene/4010-7538/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91838/",
+        "id": 91838,
+        "name": "Heavy Toast",
+        "site_detail_url": "https://comicvine.gamespot.com/heavy-toast/4050-91838/"
+      }
+    ],
+    "id": 7538
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7539/",
+    "date_added": "2016-06-25 17:37:05",
+    "date_last_updated": "2016-06-25 17:37:20",
+    "deck": "Publisher from Hong Kong",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Hambalan Press",
+    "site_detail_url": "https://comicvine.gamespot.com/hambalan-press/4010-7539/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91840/",
+        "id": 91840,
+        "name": "Hong Kong Fairy Tales",
+        "site_detail_url": "https://comicvine.gamespot.com/hong-kong-fairy-tales/4050-91840/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91841/",
+        "id": 91841,
+        "name": "Banned in Hong Kong",
+        "site_detail_url": "https://comicvine.gamespot.com/banned-in-hong-kong/4050-91841/"
+      }
+    ],
+    "id": 7539
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7540/",
+    "date_added": "2016-06-26 10:14:05",
+    "date_last_updated": "2016-06-26 10:14:21",
+    "deck": "Publisher from Sweden",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5288716-svenska.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5288716-svenska.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5288716-svenska.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5288716-svenska.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5288716-svenska.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5288716-svenska.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5288716-svenska.jpg"
+    },
+    "name": "Svenska superserier",
+    "site_detail_url": "https://comicvine.gamespot.com/svenska-superserier/4010-7540/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+
+    ],
+    "id": 7540
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7541/",
+    "date_added": "2016-06-26 21:14:37",
+    "date_last_updated": "2016-06-26 21:15:07",
+    "deck": "American publisher of bondage comics",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5289541-black.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5289541-black.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5289541-black.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5289541-black.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5289541-black.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5289541-black.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5289541-black.jpg"
+    },
+    "name": "Black Slipper",
+    "site_detail_url": "https://comicvine.gamespot.com/black-slipper/4010-7541/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91853/",
+        "id": 91853,
+        "name": "High Heels in the Heavens",
+        "site_detail_url": "https://comicvine.gamespot.com/high-heels-in-the-heavens/4050-91853/"
+      }
+    ],
+    "id": 7541
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7542/",
+    "date_added": "2016-07-02 16:56:01",
+    "date_last_updated": "2016-07-02 16:56:48",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5299877-martyr.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5299877-martyr.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5299877-martyr.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5299877-martyr.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5299877-martyr.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5299877-martyr.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5299877-martyr.jpg"
+    },
+    "name": "Martyr Press",
+    "site_detail_url": "https://comicvine.gamespot.com/martyr-press/4010-7542/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91965/",
+        "id": 91965,
+        "name": "Blue Ice",
+        "site_detail_url": "https://comicvine.gamespot.com/blue-ice/4050-91965/"
+      }
+    ],
+    "id": 7542
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7543/",
+    "date_added": "2016-07-02 18:55:32",
+    "date_last_updated": "2016-07-02 18:55:33",
+    "deck": "A company created by the creator of the Twilight Avenger",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5300054-miracle.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5300054-miracle.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5300054-miracle.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5300054-miracle.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5300054-miracle.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5300054-miracle.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5300054-miracle.jpg"
+    },
+    "name": "Miracle Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/miracle-comics/4010-7543/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91972/",
+        "id": 91972,
+        "name": "Twilight Avenger Special",
+        "site_detail_url": "https://comicvine.gamespot.com/twilight-avenger-special/4050-91972/"
+      }
+    ],
+    "id": 7543
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7544/",
+    "date_added": "2016-07-03 14:17:45",
+    "date_last_updated": "2016-07-03 14:17:46",
+    "deck": "Musta Ritari kustannus publish graphic novels in Finland.",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Musta Ritari kustannus",
+    "site_detail_url": "https://comicvine.gamespot.com/musta-ritari-kustannus/4010-7544/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+
+    ],
+    "id": 7544
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7545/",
+    "date_added": "2016-07-03 14:45:23",
+    "date_last_updated": "2016-07-03 14:45:36",
+    "deck": "Canadian publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "D & M Publishers",
+    "site_detail_url": "https://comicvine.gamespot.com/d-m-publishers/4010-7545/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91980/",
+        "id": 91980,
+        "name": "Red A Haida Manga",
+        "site_detail_url": "https://comicvine.gamespot.com/red-a-haida-manga/4050-91980/"
+      }
+    ],
+    "id": 7545
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7546/",
+    "date_added": "2016-07-03 17:10:42",
+    "date_last_updated": "2016-07-03 17:11:37",
+    "deck": "British publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Picture Story Publications",
+    "site_detail_url": "https://comicvine.gamespot.com/picture-story-publications/4010-7546/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+
+    ],
+    "id": 7546
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7547/",
+    "date_added": "2016-07-03 17:45:50",
+    "date_last_updated": "2016-07-03 17:46:39",
+    "deck": "Belgian publisher",
+    "description": "<p> Not to be confused with the publisher <a href=\"/seed-studio/4010-3059/\" data-ref-id=\"4010-3059\">Seed Studio</a></p>",
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5301635-seed.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5301635-seed.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5301635-seed.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5301635-seed.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5301635-seed.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5301635-seed.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5301635-seed.jpg"
+    },
+    "name": "Seed",
+    "site_detail_url": "https://comicvine.gamespot.com/seed/4010-7547/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91990/",
+        "id": 91990,
+        "name": "Red September",
+        "site_detail_url": "https://comicvine.gamespot.com/red-september/4050-91990/"
+      }
+    ],
+    "id": 7547
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7548/",
+    "date_added": "2016-07-03 19:21:46",
+    "date_last_updated": "2016-07-03 19:24:30",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Hanover House",
+    "site_detail_url": "https://comicvine.gamespot.com/hanover-house/4010-7548/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91993/",
+        "id": 91993,
+        "name": "Redrawn by Request: The Great Cartoons of J. R. Williams",
+        "site_detail_url": "https://comicvine.gamespot.com/redrawn-by-request-the-great-cartoons-of-j-r-willi/4050-91993/"
+      }
+    ],
+    "id": 7548
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7549/",
+    "date_added": "2016-07-04 19:18:37",
+    "date_last_updated": "2016-07-04 19:19:28",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5303952-zebra.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5303952-zebra.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5303952-zebra.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5303952-zebra.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5303952-zebra.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5303952-zebra.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5303952-zebra.jpg"
+    },
+    "name": "Zebra Publications",
+    "site_detail_url": "https://comicvine.gamespot.com/zebra-publications/4010-7549/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92058/",
+        "id": 92058,
+        "name": "How Sick Can You Get?",
+        "site_detail_url": "https://comicvine.gamespot.com/how-sick-can-you-get/4050-92058/"
+      }
+    ],
+    "id": 7549
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7550/",
+    "date_added": "2016-07-05 02:40:33",
+    "date_last_updated": "2016-07-05 02:40:34",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Attic Clown Press",
+    "site_detail_url": "https://comicvine.gamespot.com/attic-clown-press/4010-7550/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-130972/",
+        "id": 130972,
+        "name": "Globcow",
+        "site_detail_url": "https://comicvine.gamespot.com/globcow/4005-130972/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92070/",
+        "id": 92070,
+        "name": "Globcow",
+        "site_detail_url": "https://comicvine.gamespot.com/globcow/4050-92070/"
+      }
+    ],
+    "id": 7550
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7551/",
+    "date_added": "2016-07-05 20:05:06",
+    "date_last_updated": "2016-07-05 20:05:38",
+    "deck": "French publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5305846-lizard.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5305846-lizard.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5305846-lizard.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5305846-lizard.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5305846-lizard.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5305846-lizard.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5305846-lizard.jpg"
+    },
+    "name": "Le Lézard Noir",
+    "site_detail_url": "https://comicvine.gamespot.com/le-lezard-noir/4010-7551/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92075/",
+        "id": 92075,
+        "name": "AX anthologie",
+        "site_detail_url": "https://comicvine.gamespot.com/ax-anthologie/4050-92075/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93801/",
+        "id": 93801,
+        "name": "Le vagabond de Tokyo",
+        "site_detail_url": "https://comicvine.gamespot.com/le-vagabond-de-tokyo/4050-93801/"
+      }
+    ],
+    "id": 7551
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7552/",
+    "date_added": "2016-07-08 06:08:41",
+    "date_last_updated": "2016-07-08 06:08:42",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Stela",
+    "site_detail_url": "https://comicvine.gamespot.com/stela/4010-7552/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131047/",
+        "id": 131047,
+        "name": "Stella Kim",
+        "site_detail_url": "https://comicvine.gamespot.com/stella-kim/4005-131047/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131048/",
+        "id": 131048,
+        "name": "Digit",
+        "site_detail_url": "https://comicvine.gamespot.com/digit/4005-131048/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131049/",
+        "id": 131049,
+        "name": "Bit",
+        "site_detail_url": "https://comicvine.gamespot.com/bit/4005-131049/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-132768/",
+        "id": 132768,
+        "name": "Idris Morel",
+        "site_detail_url": "https://comicvine.gamespot.com/idris-morel/4005-132768/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91416/",
+        "id": 91416,
+        "name": "Chaos Arena: Crystal Fighters",
+        "site_detail_url": "https://comicvine.gamespot.com/chaos-arena-crystal-fighters/4050-91416/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94224/",
+        "id": 94224,
+        "name": "Jaeger",
+        "site_detail_url": "https://comicvine.gamespot.com/jaeger/4050-94224/"
+      }
+    ],
+    "id": 7552
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7553/",
+    "date_added": "2016-07-09 12:21:08",
+    "date_last_updated": "2016-07-09 12:22:31",
+    "deck": "German publisher under Kult that publishes titillating material",
+    "description": "<p> A publisher under <a href=\"/kult-editionen/4010-3084/\" data-ref-id=\"4010-3084\">Kult Editionen</a></p>",
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5311864-edition.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5311864-edition.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5311864-edition.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5311864-edition.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5311864-edition.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5311864-edition.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5311864-edition.jpg"
+    },
+    "name": "Edition Bikini",
+    "site_detail_url": "https://comicvine.gamespot.com/edition-bikini/4010-7553/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92098/",
+        "id": 92098,
+        "name": "Betty",
+        "site_detail_url": "https://comicvine.gamespot.com/betty/4050-92098/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92099/",
+        "id": 92099,
+        "name": "Lust und Qual",
+        "site_detail_url": "https://comicvine.gamespot.com/lust-und-qual/4050-92099/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92100/",
+        "id": 92100,
+        "name": "Eroticon Sonderband",
+        "site_detail_url": "https://comicvine.gamespot.com/eroticon-sonderband/4050-92100/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94504/",
+        "id": 94504,
+        "name": "Dildonia",
+        "site_detail_url": "https://comicvine.gamespot.com/dildonia/4050-94504/"
+      }
+    ],
+    "id": 7553
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7554/",
+    "date_added": "2016-07-09 16:39:01",
+    "date_last_updated": "2016-07-09 16:39:59",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5312326-emer.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5312326-emer.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5312326-emer.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5312326-emer.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5312326-emer.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5312326-emer.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5312326-emer.jpg"
+    },
+    "name": "Emergency Stop Press",
+    "site_detail_url": "https://comicvine.gamespot.com/emergency-stop-press/4010-7554/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92113/",
+        "id": 92113,
+        "name": "Memory Man",
+        "site_detail_url": "https://comicvine.gamespot.com/memory-man/4050-92113/"
+      }
+    ],
+    "id": 7554
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7555/",
+    "date_added": "2016-07-09 18:09:30",
+    "date_last_updated": "2016-07-09 18:09:44",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5312399-visionary.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5312399-visionary.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5312399-visionary.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5312399-visionary.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5312399-visionary.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5312399-visionary.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5312399-visionary.jpg"
+    },
+    "name": "Visionary Publications",
+    "site_detail_url": "https://comicvine.gamespot.com/visionary-publications/4010-7555/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92123/",
+        "id": 92123,
+        "name": "White Raven",
+        "site_detail_url": "https://comicvine.gamespot.com/white-raven/4050-92123/"
+      }
+    ],
+    "id": 7555
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7556/",
+    "date_added": "2016-07-10 14:48:37",
+    "date_last_updated": "2016-07-10 14:48:58",
+    "deck": "Publisher from Denmark",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Lademann",
+    "site_detail_url": "https://comicvine.gamespot.com/lademann/4010-7556/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92132/",
+        "id": 92132,
+        "name": "Superserien Senior",
+        "site_detail_url": "https://comicvine.gamespot.com/superserien-senior/4050-92132/"
+      }
+    ],
+    "id": 7556
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7557/",
+    "date_added": "2016-07-10 16:52:11",
+    "date_last_updated": "2016-07-10 16:56:13",
+    "deck": "Publisher from Cleveland, Ohio. They publish the Lake Erie Monster series of comics.",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5314009-lake.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5314009-lake.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5314009-lake.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5314009-lake.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5314009-lake.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5314009-lake.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5314009-lake.jpg"
+    },
+    "name": "Shiner Comics Group",
+    "site_detail_url": "https://comicvine.gamespot.com/shiner-comics-group/4010-7557/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": "Cleveland",
+    "location_state": "Ohio",
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92137/",
+        "id": 92137,
+        "name": "Love Again",
+        "site_detail_url": "https://comicvine.gamespot.com/love-again/4050-92137/"
+      }
+    ],
+    "id": 7557
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7558/",
+    "date_added": "2016-07-15 19:10:38",
+    "date_last_updated": "2016-07-15 19:11:03",
+    "deck": "Canadian publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Laughing World Publishing",
+    "site_detail_url": "https://comicvine.gamespot.com/laughing-world-publishing/4010-7558/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+
+    ],
+    "id": 7558
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7559/",
+    "date_added": "2016-07-17 11:12:16",
+    "date_last_updated": "2016-07-17 11:13:01",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5325929-pm.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5325929-pm.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5325929-pm.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5325929-pm.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5325929-pm.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5325929-pm.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5325929-pm.jpg"
+    },
+    "name": "PM Press",
+    "site_detail_url": "https://comicvine.gamespot.com/pm-press/4010-7559/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61838/",
+        "id": 61838,
+        "name": "Drawn to New York",
+        "site_detail_url": "https://comicvine.gamespot.com/drawn-to-new-york/4050-61838/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92331/",
+        "id": 92331,
+        "name": "Real Cost of Prisons Comix",
+        "site_detail_url": "https://comicvine.gamespot.com/real-cost-of-prisons-comix/4050-92331/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99955/",
+        "id": 99955,
+        "name": "Robin Hood: People's Outlaw and Forest Hero: A Graphic Guide",
+        "site_detail_url": "https://comicvine.gamespot.com/robin-hood-peoples-outlaw-and-forest-hero-a-graphi/4050-99955/"
+      }
+    ],
+    "id": 7559
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7560/",
+    "date_added": "2016-07-17 17:53:07",
+    "date_last_updated": "2016-07-17 17:53:30",
+    "deck": "Publisher from Singapore",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Landmark Books",
+    "site_detail_url": "https://comicvine.gamespot.com/landmark-books/4010-7560/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92339/",
+        "id": 92339,
+        "name": "Midnight Fishermen: Gekiga of the 1970s",
+        "site_detail_url": "https://comicvine.gamespot.com/midnight-fishermen-gekiga-of-the-1970s/4050-92339/"
+      }
+    ],
+    "id": 7560
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7561/",
+    "date_added": "2016-07-18 02:14:37",
+    "date_last_updated": "2016-07-22 22:35:13",
+    "deck": "Line Webtoon is a company originating in South Korea, owned by the company Naver.",
+    "description": "<p> Line Webtoon is a South Korean company that publishes comics (usually from South Korea) online. Its English site was released in 2014.</p>",
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5326460-xuzy7jk6.jpeg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5326460-xuzy7jk6.jpeg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5326460-xuzy7jk6.jpeg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5326460-xuzy7jk6.jpeg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5326460-xuzy7jk6.jpeg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5326460-xuzy7jk6.jpeg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5326460-xuzy7jk6.jpeg"
+    },
+    "name": "Line Webtoon",
+    "site_detail_url": "https://comicvine.gamespot.com/line-webtoon/4010-7561/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+
+    ],
+    "id": 7561
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7562/",
+    "date_added": "2016-07-18 19:46:34",
+    "date_last_updated": "2016-07-18 19:46:59",
+    "deck": "Canadian publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5328279-rebel.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5328279-rebel.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5328279-rebel.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5328279-rebel.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5328279-rebel.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5328279-rebel.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5328279-rebel.jpg"
+    },
+    "name": "Rebel Crime Press",
+    "site_detail_url": "https://comicvine.gamespot.com/rebel-crime-press/4010-7562/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92403/",
+        "id": 92403,
+        "name": "Bazooka Comiks",
+        "site_detail_url": "https://comicvine.gamespot.com/bazooka-comiks/4050-92403/"
+      }
+    ],
+    "id": 7562
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7563/",
+    "date_added": "2016-07-23 14:33:37",
+    "date_last_updated": "2016-07-23 14:33:54",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Interplay, Inc.",
+    "site_detail_url": "https://comicvine.gamespot.com/interplay-inc/4010-7563/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66603/",
+        "id": 66603,
+        "name": "3-D Classic Comics",
+        "site_detail_url": "https://comicvine.gamespot.com/3-d-classic-comics/4050-66603/"
+      }
+    ],
+    "id": 7563
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7564/",
+    "date_added": "2016-07-23 15:45:26",
+    "date_last_updated": "2016-07-23 15:45:45",
+    "deck": "American publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "AEP Paperbacks",
+    "site_detail_url": "https://comicvine.gamespot.com/aep-paperbacks/4010-7564/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+
+    ],
+    "id": 7564
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7565/",
+    "date_added": "2016-07-23 16:16:12",
+    "date_last_updated": "2016-07-23 16:16:13",
+    "deck": "Publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Crossbreed Press",
+    "site_detail_url": "https://comicvine.gamespot.com/crossbreed-press/4010-7565/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+
+    ],
+    "id": 7565
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7566/",
+    "date_added": "2016-07-25 16:15:31",
+    "date_last_updated": "2016-07-25 16:15:31",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5340339-0104411102-c9c5c.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5340339-0104411102-c9c5c.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5340339-0104411102-c9c5c.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5340339-0104411102-c9c5c.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5340339-0104411102-c9c5c.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5340339-0104411102-c9c5c.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5340339-0104411102-c9c5c.jpg"
+    },
+    "name": "Bean Leaf Press",
+    "site_detail_url": "https://comicvine.gamespot.com/bean-leaf-press/4010-7566/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131873/",
+        "id": 131873,
+        "name": "Bean",
+        "site_detail_url": "https://comicvine.gamespot.com/bean/4005-131873/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92505/",
+        "id": 92505,
+        "name": "The Bean",
+        "site_detail_url": "https://comicvine.gamespot.com/the-bean/4050-92505/"
+      }
+    ],
+    "id": 7566
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7567/",
+    "date_added": "2016-07-25 16:17:01",
+    "date_last_updated": "2016-07-25 16:17:02",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5340346-6347474384-e74a2.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5340346-6347474384-e74a2.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5340346-6347474384-e74a2.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5340346-6347474384-e74a2.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5340346-6347474384-e74a2.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5340346-6347474384-e74a2.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5340346-6347474384-e74a2.jpg"
+    },
+    "name": "Attaboy Comics",
+    "site_detail_url": "https://comicvine.gamespot.com/attaboy-comics/4010-7567/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92510/",
+        "id": 92510,
+        "name": "Obskura",
+        "site_detail_url": "https://comicvine.gamespot.com/obskura/4050-92510/"
+      }
+    ],
+    "id": 7567
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7568/",
+    "date_added": "2016-07-25 16:17:29",
+    "date_last_updated": "2016-07-25 16:17:30",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5340347-9951496233-2bdd4.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5340347-9951496233-2bdd4.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5340347-9951496233-2bdd4.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5340347-9951496233-2bdd4.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5340347-9951496233-2bdd4.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5340347-9951496233-2bdd4.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5340347-9951496233-2bdd4.jpg"
+    },
+    "name": "Genefex Gallery",
+    "site_detail_url": "https://comicvine.gamespot.com/genefex-gallery/4010-7568/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131877/",
+        "id": 131877,
+        "name": "Afropilot",
+        "site_detail_url": "https://comicvine.gamespot.com/afropilot/4005-131877/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131878/",
+        "id": 131878,
+        "name": "Agent Blue Fox",
+        "site_detail_url": "https://comicvine.gamespot.com/agent-blue-fox/4005-131878/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131879/",
+        "id": 131879,
+        "name": "Captain-J",
+        "site_detail_url": "https://comicvine.gamespot.com/captain-j/4005-131879/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131880/",
+        "id": 131880,
+        "name": "Ephraim Balogun",
+        "site_detail_url": "https://comicvine.gamespot.com/ephraim-balogun/4005-131880/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92513/",
+        "id": 92513,
+        "name": "Shadow Justice",
+        "site_detail_url": "https://comicvine.gamespot.com/shadow-justice/4050-92513/"
+      }
+    ],
+    "id": 7568
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7569/",
+    "date_added": "2016-07-25 16:50:32",
+    "date_last_updated": "2016-07-25 16:50:33",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5340438-4706262981-462dc.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5340438-4706262981-462dc.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5340438-4706262981-462dc.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5340438-4706262981-462dc.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5340438-4706262981-462dc.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5340438-4706262981-462dc.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5340438-4706262981-462dc.jpg"
+    },
+    "name": "Duck Monolith Studios",
+    "site_detail_url": "https://comicvine.gamespot.com/duck-monolith-studios/4010-7569/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-132012/",
+        "id": 132012,
+        "name": "Walter Capstone",
+        "site_detail_url": "https://comicvine.gamespot.com/walter-capstone/4005-132012/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-132013/",
+        "id": 132013,
+        "name": "Daniel Blackland",
+        "site_detail_url": "https://comicvine.gamespot.com/daniel-blackland/4005-132013/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92517/",
+        "id": 92517,
+        "name": "California Bones",
+        "site_detail_url": "https://comicvine.gamespot.com/california-bones/4050-92517/"
+      }
+    ],
+    "id": 7569
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7570/",
+    "date_added": "2016-07-25 16:51:00",
+    "date_last_updated": "2016-07-25 16:51:00",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5340439-6259900223-e6082.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5340439-6259900223-e6082.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5340439-6259900223-e6082.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5340439-6259900223-e6082.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5340439-6259900223-e6082.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5340439-6259900223-e6082.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5340439-6259900223-e6082.jpg"
+    },
+    "name": "Fanbase Press",
+    "site_detail_url": "https://comicvine.gamespot.com/fanbase-press/4010-7570/",
+    "teams": [
+
+    ],
+    "characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-132015/",
+        "id": 132015,
+        "name": "Jack",
+        "site_detail_url": "https://comicvine.gamespot.com/jack/4005-132015/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-134660/",
+        "id": 134660,
+        "name": "Boomer",
+        "site_detail_url": "https://comicvine.gamespot.com/boomer/4005-134660/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-134661/",
+        "id": 134661,
+        "name": "Chet",
+        "site_detail_url": "https://comicvine.gamespot.com/chet/4005-134661/"
+      }
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92521/",
+        "id": 92521,
+        "name": "Something Animal",
+        "site_detail_url": "https://comicvine.gamespot.com/something-animal/4050-92521/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95800/",
+        "id": 95800,
+        "name": "Hero Hotel",
+        "site_detail_url": "https://comicvine.gamespot.com/hero-hotel/4050-95800/"
+      }
+    ],
+    "id": 7570
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7571/",
+    "date_added": "2016-07-25 17:24:42",
+    "date_last_updated": "2016-07-25 17:24:43",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5340511-6330235366-55345.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5340511-6330235366-55345.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5340511-6330235366-55345.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5340511-6330235366-55345.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5340511-6330235366-55345.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5340511-6330235366-55345.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5340511-6330235366-55345.jpg"
+    },
+    "name": "Sherbet Publishing",
+    "site_detail_url": "https://comicvine.gamespot.com/sherbet-publishing/4010-7571/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92530/",
+        "id": 92530,
+        "name": "Sherbet",
+        "site_detail_url": "https://comicvine.gamespot.com/sherbet/4050-92530/"
+      }
+    ],
+    "id": 7571
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-7572/",
+    "date_added": "2016-07-30 16:36:17",
+    "date_last_updated": "2016-07-30 16:36:17",
+    "deck": "Publisher",
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5350860-edge.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5350860-edge.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5350860-edge.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5350860-edge.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5350860-edge.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5350860-edge.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5350860-edge.jpg"
+    },
+    "name": "Edge Press",
+    "site_detail_url": "https://comicvine.gamespot.com/edge-press/4010-7572/",
+    "teams": [
+
+    ],
+    "characters": [
+
+    ],
+    "location_address": null,
+    "location_city": null,
+    "location_state": null,
+    "story_arcs": [
+
+    ],
+    "volumes": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92655/",
+        "id": 92655,
+        "name": "Last Ditch",
+        "site_detail_url": "https://comicvine.gamespot.com/last-ditch/4050-92655/"
+      }
+    ],
+    "id": 7572
+  }
+]

@@ -1,0 +1,3099 @@
+[
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66539/",
+    "birth": null,
+    "date_added": "2012-11-27 02:43:48",
+    "date_last_updated": "2013-02-06 20:36:08",
+    "deck": "Editorial assistant.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Jean-Carlo Tirado",
+    "site_detail_url": "http://comicvine.gamespot.com/jean-carlo-tirado/4040-66539/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66539
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66540/",
+    "birth": null,
+    "date_added": "2012-11-27 03:14:45",
+    "date_last_updated": "2012-11-27 04:53:46",
+    "deck": "Graphic novelist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Lamar Abrams",
+    "site_detail_url": "http://comicvine.gamespot.com/lamar-abrams/4040-66540/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66540
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66541/",
+    "birth": null,
+    "date_added": "2012-11-27 03:15:45",
+    "date_last_updated": "2012-11-27 03:39:24",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Todd Hunt",
+    "site_detail_url": "http://comicvine.gamespot.com/todd-hunt/4040-66541/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66541
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66542/",
+    "birth": null,
+    "date_added": "2012-11-27 03:16:03",
+    "date_last_updated": "2014-12-24 01:33:30",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/4291689-7633217018-seanv.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/4291689-7633217018-seanv.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/4291689-7633217018-seanv.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/4291689-7633217018-seanv.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/4291689-7633217018-seanv.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/4291689-7633217018-seanv.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/4291689-7633217018-seanv.jpg"
+    },
+    "name": "Sean Von Gorman",
+    "site_detail_url": "http://comicvine.gamespot.com/sean-von-gorman/4040-66542/",
+    "story_arc_credits": [
+
+    ],
+    "country": "USA",
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-110040/",
+        "id": 110040,
+        "name": "Annie Maul",
+        "site_detail_url": "http://comicvine.gamespot.com/annie-maul/4005-110040/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-110041/",
+        "id": 110041,
+        "name": "Dickie Tagz",
+        "site_detail_url": "http://comicvine.gamespot.com/dickie-tagz/4005-110041/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-110039/",
+        "id": 110039,
+        "name": "Evie Vee",
+        "site_detail_url": "http://comicvine.gamespot.com/evie-vee/4005-110039/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-110038/",
+        "id": 110038,
+        "name": "Paulie Propylene",
+        "site_detail_url": "http://comicvine.gamespot.com/paulie-propylene/4005-110038/"
+      }
+    ],
+    "death": null,
+    "email": null,
+    "hometown": "New York City",
+    "website": null,
+    "id": 66542
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66543/",
+    "birth": null,
+    "date_added": "2012-11-27 03:20:11",
+    "date_last_updated": "2012-11-27 03:39:16",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Ben Lichius",
+    "site_detail_url": "http://comicvine.gamespot.com/ben-lichius/4040-66543/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66543
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66544/",
+    "birth": null,
+    "date_added": "2012-11-27 03:20:22",
+    "date_last_updated": "2012-11-27 03:39:16",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Roberto Ali",
+    "site_detail_url": "http://comicvine.gamespot.com/roberto-ali/4040-66544/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66544
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66545/",
+    "birth": null,
+    "date_added": "2012-11-27 03:26:59",
+    "date_last_updated": "2013-02-05 07:06:17",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Dan Goodsell",
+    "site_detail_url": "http://comicvine.gamespot.com/dan-goodsell/4040-66545/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66545
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66546/",
+    "birth": null,
+    "date_added": "2012-11-27 03:27:14",
+    "date_last_updated": "2013-02-05 07:06:17",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Todd Webb",
+    "site_detail_url": "http://comicvine.gamespot.com/todd-webb/4040-66546/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66546
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66547/",
+    "birth": null,
+    "date_added": "2012-11-27 03:29:02",
+    "date_last_updated": "2012-11-27 03:39:07",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Kevin Jackson",
+    "site_detail_url": "http://comicvine.gamespot.com/kevin-jackson/4040-66547/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66547
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66548/",
+    "birth": null,
+    "date_added": "2012-11-27 03:29:48",
+    "date_last_updated": "2015-11-03 06:24:59",
+    "deck": "Graphic novelist.",
+    "description": null,
+    "gender": 0,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/4889362-9774059581-31GPP.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/4889362-9774059581-31GPP.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/4889362-9774059581-31GPP.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/4889362-9774059581-31GPP.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/4889362-9774059581-31GPP.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/4889362-9774059581-31GPP.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/4889362-9774059581-31GPP.jpg"
+    },
+    "name": "Jeff Kinney",
+    "site_detail_url": "http://comicvine.gamespot.com/jeff-kinney/4040-66548/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-94117/",
+        "id": 94117,
+        "name": "Frank Heffley",
+        "site_detail_url": "http://comicvine.gamespot.com/frank-heffley/4005-94117/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-94111/",
+        "id": 94111,
+        "name": "Greg Heffley",
+        "site_detail_url": "http://comicvine.gamespot.com/greg-heffley/4005-94111/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-94116/",
+        "id": 94116,
+        "name": "Rodrick Heffley",
+        "site_detail_url": "http://comicvine.gamespot.com/rodrick-heffley/4005-94116/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-94110/",
+        "id": 94110,
+        "name": "Rowley Jefferson",
+        "site_detail_url": "http://comicvine.gamespot.com/rowley-jefferson/4005-94110/"
+      }
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66548
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66549/",
+    "birth": null,
+    "date_added": "2012-11-27 03:30:38",
+    "date_last_updated": "2012-11-27 03:39:10",
+    "deck": "Graphic novelist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Jon McNaught",
+    "site_detail_url": "http://comicvine.gamespot.com/jon-mcnaught/4040-66549/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66549
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66550/",
+    "birth": null,
+    "date_added": "2012-11-27 03:32:25",
+    "date_last_updated": "2013-02-20 16:52:40",
+    "deck": "Graphic novelist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Darby Conley",
+    "site_detail_url": "http://comicvine.gamespot.com/darby-conley/4040-66550/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-109307/",
+        "id": 109307,
+        "name": "Bucky Katt",
+        "site_detail_url": "http://comicvine.gamespot.com/bucky-katt/4005-109307/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-109308/",
+        "id": 109308,
+        "name": "Rob Wilco",
+        "site_detail_url": "http://comicvine.gamespot.com/rob-wilco/4005-109308/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-109306/",
+        "id": 109306,
+        "name": "Satchel Pooch",
+        "site_detail_url": "http://comicvine.gamespot.com/satchel-pooch/4005-109306/"
+      }
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66550
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66552/",
+    "birth": null,
+    "date_added": "2012-11-27 03:36:36",
+    "date_last_updated": "2015-08-29 00:53:05",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/4773278-9776078571-b10ef.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/4773278-9776078571-b10ef.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/4773278-9776078571-b10ef.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/4773278-9776078571-b10ef.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/4773278-9776078571-b10ef.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/4773278-9776078571-b10ef.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/4773278-9776078571-b10ef.jpg"
+    },
+    "name": "Kurt Amacker",
+    "site_detail_url": "http://comicvine.gamespot.com/kurt-amacker/4040-66552/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": "http://www.kurtamacker.com",
+    "id": 66552
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66553/",
+    "birth": null,
+    "date_added": "2012-11-27 03:36:48",
+    "date_last_updated": "2012-11-27 03:39:27",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Karl Slominski",
+    "site_detail_url": "http://comicvine.gamespot.com/karl-slominski/4040-66553/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66553
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66554/",
+    "birth": null,
+    "date_added": "2012-11-27 08:41:41",
+    "date_last_updated": "2013-12-24 01:18:25",
+    "deck": "Colorist.",
+    "description": null,
+    "gender": 2,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/3406416-heather-breckel.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/3406416-heather-breckel.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/3406416-heather-breckel.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/3406416-heather-breckel.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/3406416-heather-breckel.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/3406416-heather-breckel.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/3406416-heather-breckel.jpg"
+    },
+    "name": "Heather Breckel",
+    "site_detail_url": "http://comicvine.gamespot.com/heather-breckel/4040-66554/",
+    "story_arc_credits": [
+
+    ],
+    "country": "United States",
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": "angieness@gmail.com",
+    "hometown": "Columbus, Ohio",
+    "website": "http://www.hbreckelcolors.com/",
+    "id": 66554
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66555/",
+    "birth": null,
+    "date_added": "2012-11-27 10:41:51",
+    "date_last_updated": "2012-11-27 10:43:19",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Stephan Frost",
+    "site_detail_url": "http://comicvine.gamespot.com/stephan-frost/4040-66555/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66555
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66556/",
+    "birth": null,
+    "date_added": "2012-11-27 10:42:10",
+    "date_last_updated": "2012-11-27 10:43:19",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "S. Partington",
+    "site_detail_url": "http://comicvine.gamespot.com/s-partington/4040-66556/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66556
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66557/",
+    "birth": null,
+    "date_added": "2012-11-27 16:30:06",
+    "date_last_updated": "2012-11-27 16:30:06",
+    "deck": "Sacha Borisich was born in Chicago and now lives in Los Angeles. She is best known for illustrating Zuda webcomic Black Cherry Bombshells.",
+    "description": null,
+    "gender": 0,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2724184-sachaart.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2724184-sachaart.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2724184-sachaart.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2724184-sachaart.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2724184-sachaart.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2724184-sachaart.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2724184-sachaart.jpg"
+    },
+    "name": "Sacha Borisich",
+    "site_detail_url": "http://comicvine.gamespot.com/sacha-borisich/4040-66557/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66557
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66558/",
+    "birth": null,
+    "date_added": "2012-11-27 16:30:58",
+    "date_last_updated": "2012-11-27 16:30:58",
+    "deck": "John Dallaire is a commercial illustrator and graphic designer, and the art director of sci-fi fan site pinkraygun.com. He has worked on a number of indie comics, including webcomic Black Cherry Bombshells.",
+    "description": null,
+    "gender": 0,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2724186-john.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2724186-john.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2724186-john.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2724186-john.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2724186-john.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2724186-john.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2724186-john.jpg"
+    },
+    "name": "John Dallaire",
+    "site_detail_url": "http://comicvine.gamespot.com/john-dallaire/4040-66558/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66558
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66559/",
+    "birth": null,
+    "date_added": "2012-11-28 04:30:26",
+    "date_last_updated": "2012-11-28 04:32:12",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Michael Mongillo",
+    "site_detail_url": "http://comicvine.gamespot.com/michael-mongillo/4040-66559/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66559
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66560/",
+    "birth": null,
+    "date_added": "2012-11-28 04:31:08",
+    "date_last_updated": "2012-11-28 04:32:12",
+    "deck": "Artist and letterer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Rob Ten Pas",
+    "site_detail_url": "http://comicvine.gamespot.com/rob-ten-pas/4040-66560/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66560
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66561/",
+    "birth": null,
+    "date_added": "2012-11-28 09:05:23",
+    "date_last_updated": "2015-03-19 03:34:26",
+    "deck": "Indian Artist.",
+    "description": null,
+    "gender": 2,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Devaki Neogi",
+    "site_detail_url": "http://comicvine.gamespot.com/devaki-neogi/4040-66561/",
+    "story_arc_credits": [
+
+    ],
+    "country": "India",
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-115611/",
+        "id": 115611,
+        "name": "Bloody Mary",
+        "site_detail_url": "http://comicvine.gamespot.com/bloody-mary/4005-115611/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-115609/",
+        "id": 115609,
+        "name": "Daisy Chain",
+        "site_detail_url": "http://comicvine.gamespot.com/daisy-chain/4005-115609/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-115610/",
+        "id": 115610,
+        "name": "Derby Girl",
+        "site_detail_url": "http://comicvine.gamespot.com/derby-girl/4005-115610/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-115607/",
+        "id": 115607,
+        "name": "Machete Betty",
+        "site_detail_url": "http://comicvine.gamespot.com/machete-betty/4005-115607/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-115608/",
+        "id": 115608,
+        "name": "Violet Volt",
+        "site_detail_url": "http://comicvine.gamespot.com/violet-volt/4005-115608/"
+      }
+    ],
+    "death": null,
+    "email": null,
+    "hometown": "Bengaluru, Karnataka",
+    "website": "http://www.devakineogi.tumblr.com/",
+    "id": 66561
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66562/",
+    "birth": null,
+    "date_added": "2012-11-28 18:04:47",
+    "date_last_updated": "2016-07-01 17:44:40",
+    "deck": "Comic book artist.",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Maurice Vellekoop",
+    "site_detail_url": "http://comicvine.gamespot.com/maurice-vellekoop/4040-66562/",
+    "story_arc_credits": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/story_arc/4045-58818/",
+        "id": 58818,
+        "name": "Déni de fuite",
+        "site_detail_url": "http://comicvine.gamespot.com/deni-de-fuite/4045-58818/"
+      }
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66562
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66563/",
+    "birth": null,
+    "date_added": "2012-11-30 01:26:53",
+    "date_last_updated": "2012-11-30 01:26:53",
+    "deck": "Loren Meyer is an American illustrator. His most successful work is Zuda webcomic Blood Hunter, which he also wrote.",
+    "description": null,
+    "gender": 0,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2726859-profile_pic.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2726859-profile_pic.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2726859-profile_pic.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2726859-profile_pic.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2726859-profile_pic.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2726859-profile_pic.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2726859-profile_pic.jpg"
+    },
+    "name": "Loren Meyer",
+    "site_detail_url": "http://comicvine.gamespot.com/loren-meyer/4040-66563/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66563
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66564/",
+    "birth": null,
+    "date_added": "2012-12-01 02:21:59",
+    "date_last_updated": "2012-12-01 03:06:38",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 1,
+    "image": null,
+    "name": "Lloyd Chao",
+    "site_detail_url": "http://comicvine.gamespot.com/lloyd-chao/4040-66564/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66564
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66565/",
+    "birth": null,
+    "date_added": "2012-12-01 02:22:40",
+    "date_last_updated": "2012-12-01 03:01:27",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Christine Chi-Long To",
+    "site_detail_url": "http://comicvine.gamespot.com/christine-chi-long-to/4040-66565/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66565
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66566/",
+    "birth": null,
+    "date_added": "2012-12-01 02:23:28",
+    "date_last_updated": "2012-12-01 03:01:27",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Troy D. Zurel",
+    "site_detail_url": "http://comicvine.gamespot.com/troy-d-zurel/4040-66566/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66566
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66567/",
+    "birth": "1985-11-25 00:00:00",
+    "date_added": "2012-12-01 02:24:41",
+    "date_last_updated": "2013-11-29 08:20:38",
+    "deck": "Artist. Inker. Writter",
+    "description": "<p> </p>",
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Sergio Anaya Arevalo",
+    "site_detail_url": "http://comicvine.gamespot.com/sergio-anaya-arevalo/4040-66567/",
+    "story_arc_credits": [
+
+    ],
+    "country": "México",
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": "blauerfeuer@hotmail.com",
+    "hometown": "Chihuahua",
+    "website": "http://www.el-diablero.blogspot.com",
+    "id": 66567
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66568/",
+    "birth": null,
+    "date_added": "2012-12-01 02:26:34",
+    "date_last_updated": "2012-12-01 03:01:27",
+    "deck": "Colorist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Michelle Lo",
+    "site_detail_url": "http://comicvine.gamespot.com/michelle-lo/4040-66568/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66568
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66569/",
+    "birth": null,
+    "date_added": "2012-12-01 02:41:51",
+    "date_last_updated": "2012-12-01 02:43:31",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Rob Doria",
+    "site_detail_url": "http://comicvine.gamespot.com/rob-doria/4040-66569/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66569
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66570/",
+    "birth": null,
+    "date_added": "2012-12-01 02:42:44",
+    "date_last_updated": "2012-12-01 02:43:31",
+    "deck": "Production studio.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Big City Comics Studio",
+    "site_detail_url": "http://comicvine.gamespot.com/big-city-comics-studio/4040-66570/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66570
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66571/",
+    "birth": null,
+    "date_added": "2012-12-01 09:27:04",
+    "date_last_updated": "2016-10-08 04:25:47",
+    "deck": "Editor.",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Jeff Webber",
+    "site_detail_url": "http://comicvine.gamespot.com/jeff-webber/4040-66571/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66571
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66573/",
+    "birth": null,
+    "date_added": "2012-12-02 11:34:34",
+    "date_last_updated": "2012-12-02 11:35:45",
+    "deck": "Comic book artist",
+    "description": null,
+    "gender": 2,
+    "image": null,
+    "name": "Sabrina Jones",
+    "site_detail_url": "http://comicvine.gamespot.com/sabrina-jones/4040-66573/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66573
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66574/",
+    "birth": null,
+    "date_added": "2012-12-02 16:52:43",
+    "date_last_updated": "2012-12-02 17:07:39",
+    "deck": "Artist",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Paul Kidby",
+    "site_detail_url": "http://comicvine.gamespot.com/paul-kidby/4040-66574/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66574
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66575/",
+    "birth": null,
+    "date_added": "2012-12-03 09:15:12",
+    "date_last_updated": "2013-11-07 14:23:31",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1063443-question_mark.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1063443-question_mark.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1063443-question_mark.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1063443-question_mark.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1063443-question_mark.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1063443-question_mark.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1063443-question_mark.jpg"
+    },
+    "name": "John Koch",
+    "site_detail_url": "http://comicvine.gamespot.com/john-koch/4040-66575/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-93977/",
+        "id": 93977,
+        "name": "Terataya",
+        "site_detail_url": "http://comicvine.gamespot.com/terataya/4005-93977/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-73026/",
+        "id": 73026,
+        "name": "Unity",
+        "site_detail_url": "http://comicvine.gamespot.com/unity/4005-73026/"
+      }
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66575
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66576/",
+    "birth": null,
+    "date_added": "2012-12-03 20:20:44",
+    "date_last_updated": "2012-12-03 20:24:28",
+    "deck": "Creator.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Jon Jennings",
+    "site_detail_url": "http://comicvine.gamespot.com/jon-jennings/4040-66576/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66576
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66577/",
+    "birth": null,
+    "date_added": "2012-12-03 20:21:07",
+    "date_last_updated": "2012-12-03 20:24:28",
+    "deck": "Creator.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Luis Estrada",
+    "site_detail_url": "http://comicvine.gamespot.com/luis-estrada/4040-66577/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66577
+  },
+  {
+    "aliases": "Zech Gray",
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66578/",
+    "birth": "1974-08-21 00:00:00",
+    "date_added": "2012-12-03 20:21:38",
+    "date_last_updated": "2014-02-26 08:42:20",
+    "deck": "Creator.",
+    "description": "<p> Zechary \"Zech\" Gray was born and raised in Miami Florida. He pursued a life as a comic book artist since he picked up his first comic book the X-MEN by then artist Marc Silvestri. In his early career he met Georges Jeanty who he credits to this day as his first mentor. Over the years he took a career switch as he joined the U.S. ARMY until 2008 where he suffered from injuries from an explosion. In 2010 after healing and falling back in love with drawing he was introduced to ANTARCTIC PRESS where he met Fred Perry, David Hutchison, Wes Hartman, Brian Denham and a host of other artists that took him into their fold. He is a huge admire of Jim Lee, Travis Charest, Art Adams, J Scott Campell, Greg Capullo. </p>",
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Zechary Gray",
+    "site_detail_url": "http://comicvine.gamespot.com/zechary-gray/4040-66578/",
+    "story_arc_credits": [
+
+    ],
+    "country": "United States",
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": "San Antonio, Texas",
+    "website": null,
+    "id": 66578
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66579/",
+    "birth": null,
+    "date_added": "2012-12-04 01:54:27",
+    "date_last_updated": "2014-05-01 09:18:47",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Duffy Boudreau",
+    "site_detail_url": "http://comicvine.gamespot.com/duffy-boudreau/4040-66579/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66579
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66580/",
+    "birth": null,
+    "date_added": "2012-12-04 01:54:57",
+    "date_last_updated": "2013-03-05 13:26:45",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Wendell Cavalcanti",
+    "site_detail_url": "http://comicvine.gamespot.com/wendell-cavalcanti/4040-66580/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66580
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66581/",
+    "birth": null,
+    "date_added": "2012-12-04 01:59:26",
+    "date_last_updated": "2013-04-24 13:22:34",
+    "deck": "Writer.",
+    "description": "  ",
+    "gender": 0,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Kel Symons",
+    "site_detail_url": "http://comicvine.gamespot.com/kel-symons/4040-66581/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98182/",
+        "id": 98182,
+        "name": "Admiral Shi Tang",
+        "site_detail_url": "http://comicvine.gamespot.com/admiral-shi-tang/4005-98182/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98186/",
+        "id": 98186,
+        "name": "Doc",
+        "site_detail_url": "http://comicvine.gamespot.com/doc/4005-98186/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98187/",
+        "id": 98187,
+        "name": "Friday",
+        "site_detail_url": "http://comicvine.gamespot.com/friday/4005-98187/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98020/",
+        "id": 98020,
+        "name": "Jack Harper",
+        "site_detail_url": "http://comicvine.gamespot.com/jack-harper/4005-98020/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98179/",
+        "id": 98179,
+        "name": "Jarreau",
+        "site_detail_url": "http://comicvine.gamespot.com/jarreau/4005-98179/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98188/",
+        "id": 98188,
+        "name": "Kevin",
+        "site_detail_url": "http://comicvine.gamespot.com/kevin/4005-98188/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98183/",
+        "id": 98183,
+        "name": "Milton Weatherborne III",
+        "site_detail_url": "http://comicvine.gamespot.com/milton-weatherborne-iii/4005-98183/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98184/",
+        "id": 98184,
+        "name": "Richard Blair",
+        "site_detail_url": "http://comicvine.gamespot.com/richard-blair/4005-98184/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98185/",
+        "id": 98185,
+        "name": "Samantha Blair",
+        "site_detail_url": "http://comicvine.gamespot.com/samantha-blair/4005-98185/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98180/",
+        "id": 98180,
+        "name": "Smokestack Jackson",
+        "site_detail_url": "http://comicvine.gamespot.com/smokestack-jackson/4005-98180/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98189/",
+        "id": 98189,
+        "name": "Toby",
+        "site_detail_url": "http://comicvine.gamespot.com/toby/4005-98189/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-98181/",
+        "id": 98181,
+        "name": "Wulf Renner",
+        "site_detail_url": "http://comicvine.gamespot.com/wulf-renner/4005-98181/"
+      }
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66581
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66582/",
+    "birth": null,
+    "date_added": "2012-12-04 03:27:52",
+    "date_last_updated": "2013-01-16 02:43:39",
+    "deck": "Graphic novelist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Jean-Claude Carriere",
+    "site_detail_url": "http://comicvine.gamespot.com/jean-claude-carriere/4040-66582/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66582
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66585/",
+    "birth": null,
+    "date_added": "2012-12-04 03:36:16",
+    "date_last_updated": "2014-12-04 19:21:29",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/4258025-robert-wawrzyniak.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/4258025-robert-wawrzyniak.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/4258025-robert-wawrzyniak.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/4258025-robert-wawrzyniak.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/4258025-robert-wawrzyniak.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/4258025-robert-wawrzyniak.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/4258025-robert-wawrzyniak.jpg"
+    },
+    "name": "Robert Wawrzyniak",
+    "site_detail_url": "http://comicvine.gamespot.com/robert-wawrzyniak/4040-66585/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": "http://www.theultimate7.com",
+    "id": 66585
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66586/",
+    "birth": null,
+    "date_added": "2012-12-04 03:36:39",
+    "date_last_updated": "2014-12-04 19:22:58",
+    "deck": "Artist.",
+    "description": "  ",
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/4258026-shawn-surface.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/4258026-shawn-surface.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/4258026-shawn-surface.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/4258026-shawn-surface.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/4258026-shawn-surface.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/4258026-shawn-surface.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/4258026-shawn-surface.jpg"
+    },
+    "name": "Shawn Surface",
+    "site_detail_url": "http://comicvine.gamespot.com/shawn-surface/4040-66586/",
+    "story_arc_credits": [
+
+    ],
+    "country": "USA",
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": "Florida",
+    "website": "http://www.surfaceart.deviantart.com/",
+    "id": 66586
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66587/",
+    "birth": null,
+    "date_added": "2012-12-04 03:38:18",
+    "date_last_updated": "2012-12-04 03:39:56",
+    "deck": " artist.",
+    "description": "<p>.</p>",
+    "gender": 0,
+    "image": null,
+    "name": "Steven Sanchez",
+    "site_detail_url": "http://comicvine.gamespot.com/steven-sanchez/4040-66587/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66587
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66588/",
+    "birth": null,
+    "date_added": "2012-12-04 10:50:46",
+    "date_last_updated": "2015-11-25 06:24:22",
+    "deck": "Colorist.",
+    "description": "<p> Linda Sejic is a <span style=\"font-size:16px;\">Croatian</span><span style=\"font-size:16px;\"> colorist and digital artist who has worked for comic companies like Dynamite, Top Cow and Zenescope. She is also the wife of fellow artist <a href=\"//www.comicvine.com/stjepan-sejic/4040-44662/\" data-ref-id=\"4040-44662\">Stjepan Sejic</a>.</span></p>",
+    "gender": 2,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/3359496-linda.png",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/3359496-linda.png",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/3359496-linda.png",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/3359496-linda.png",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/3359496-linda.png",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/3359496-linda.png",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/3359496-linda.png"
+    },
+    "name": "Linda Luksic Šejić",
+    "site_detail_url": "http://comicvine.gamespot.com/linda-luksic-sejic/4040-66588/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-127964/",
+        "id": 127964,
+        "name": "Dr. Vlad Stein",
+        "site_detail_url": "http://comicvine.gamespot.com/dr-vlad-stein/4005-127964/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-127965/",
+        "id": 127965,
+        "name": "Elliot Torres",
+        "site_detail_url": "http://comicvine.gamespot.com/elliot-torres/4005-127965/"
+      }
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66588
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66589/",
+    "birth": null,
+    "date_added": "2012-12-04 10:52:09",
+    "date_last_updated": "2012-12-19 09:22:32",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Adam Cleveland",
+    "site_detail_url": "http://comicvine.gamespot.com/adam-cleveland/4040-66589/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66589
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66590/",
+    "birth": null,
+    "date_added": "2012-12-04 10:52:39",
+    "date_last_updated": "2012-12-04 10:54:51",
+    "deck": "Colorist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Juancho Velez",
+    "site_detail_url": "http://comicvine.gamespot.com/juancho-velez/4040-66590/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66590
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66591/",
+    "birth": null,
+    "date_added": "2012-12-04 18:21:31",
+    "date_last_updated": "2012-12-04 21:46:31",
+    "deck": "Sean Carolan is a comic book writer for DC Comics.  He has worked on Cartoon Network Block Party, Dexter's Laboratory, Hi Hi Puffy Amiyumi, The Powerpuff Girls, and Scooby-Doo.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Sean Carolan",
+    "site_detail_url": "http://comicvine.gamespot.com/sean-carolan/4040-66591/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66591
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66592/",
+    "birth": null,
+    "date_added": "2012-12-04 19:37:59",
+    "date_last_updated": "2012-12-04 19:39:54",
+    "deck": "Mangaka.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Takuya Mitomi",
+    "site_detail_url": "http://comicvine.gamespot.com/takuya-mitomi/4040-66592/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66592
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66593/",
+    "birth": null,
+    "date_added": "2012-12-05 04:32:00",
+    "date_last_updated": "2012-12-05 04:40:37",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Chris Savano",
+    "site_detail_url": "http://comicvine.gamespot.com/chris-savano/4040-66593/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66593
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66594/",
+    "birth": null,
+    "date_added": "2012-12-05 04:34:24",
+    "date_last_updated": "2012-12-05 04:40:37",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "James Denning",
+    "site_detail_url": "http://comicvine.gamespot.com/james-denning/4040-66594/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66594
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66595/",
+    "birth": null,
+    "date_added": "2012-12-05 04:35:25",
+    "date_last_updated": "2012-12-05 04:40:37",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Erik Doescher",
+    "site_detail_url": "http://comicvine.gamespot.com/erik-doescher/4040-66595/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66595
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66597/",
+    "birth": null,
+    "date_added": "2012-12-05 07:28:00",
+    "date_last_updated": "2012-12-05 07:28:41",
+    "deck": "Reginald Thomas Maitland Scott was a Canadian fiction writer and the creator of Secret Service Smith. He also wrote the first two \"The Spider\" novels.",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2737686-rtm_scott.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2737686-rtm_scott.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2737686-rtm_scott.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2737686-rtm_scott.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2737686-rtm_scott.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2737686-rtm_scott.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2737686-rtm_scott.jpg"
+    },
+    "name": "R.T.M. Scott",
+    "site_detail_url": "http://comicvine.gamespot.com/rtm-scott/4040-66597/",
+    "story_arc_credits": [
+
+    ],
+    "country": "Canada",
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-84186/",
+        "id": 84186,
+        "name": "Nita Van Sloan",
+        "site_detail_url": "http://comicvine.gamespot.com/nita-van-sloan/4005-84186/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-84188/",
+        "id": 84188,
+        "name": "Ram Singh",
+        "site_detail_url": "http://comicvine.gamespot.com/ram-singh/4005-84188/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-86499/",
+        "id": 86499,
+        "name": "Ronald Jackson",
+        "site_detail_url": "http://comicvine.gamespot.com/ronald-jackson/4005-86499/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-84189/",
+        "id": 84189,
+        "name": "Stanley Kirkpatrick",
+        "site_detail_url": "http://comicvine.gamespot.com/stanley-kirkpatrick/4005-84189/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-18576/",
+        "id": 18576,
+        "name": "The Spider",
+        "site_detail_url": "http://comicvine.gamespot.com/the-spider/4005-18576/"
+      }
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66597
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66598/",
+    "birth": "1904-06-09 00:00:00",
+    "date_added": "2012-12-05 07:38:32",
+    "date_last_updated": "2013-06-09 00:24:52",
+    "deck": "Norvell Wordsworth Page was an American pulp fiction writer best known for his extensive work on The Spider. Page has also written stories for The Shadow and The Phantom.",
+    "description": "<p> AKA <strong>Grant Stockbridge</strong></p>",
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2737691-norvell_page.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2737691-norvell_page.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2737691-norvell_page.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2737691-norvell_page.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2737691-norvell_page.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2737691-norvell_page.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2737691-norvell_page.jpg"
+    },
+    "name": "Norvell W. Page",
+    "site_detail_url": "http://comicvine.gamespot.com/norvell-w-page/4040-66598/",
+    "story_arc_credits": [
+
+    ],
+    "country": "USA",
+    "created_characters": [
+
+    ],
+    "death": {
+      "date": "1961-08-09 00:00:00.000000",
+      "timezone_type": 3,
+      "timezone": "America/Los_Angeles"
+    },
+    "email": null,
+    "hometown": null,
+    "website": "http://www.norvellpagepage.blogspot.com/p/about-norvell-page.html",
+    "id": 66598
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66599/",
+    "birth": "1904-11-01 00:00:00",
+    "date_added": "2012-12-05 07:42:29",
+    "date_last_updated": "2012-12-05 07:44:13",
+    "deck": "Walter Martin Baumhofer was an American illustrator known for his cover art on pulp magazines.",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2737697-walterbaumhofer.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2737697-walterbaumhofer.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2737697-walterbaumhofer.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2737697-walterbaumhofer.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2737697-walterbaumhofer.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2737697-walterbaumhofer.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2737697-walterbaumhofer.jpg"
+    },
+    "name": "Walter M. Baumhofer",
+    "site_detail_url": "http://comicvine.gamespot.com/walter-m-baumhofer/4040-66599/",
+    "story_arc_credits": [
+
+    ],
+    "country": "USA",
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-18576/",
+        "id": 18576,
+        "name": "The Spider",
+        "site_detail_url": "http://comicvine.gamespot.com/the-spider/4005-18576/"
+      }
+    ],
+    "death": {
+      "date": "1987-09-23 00:00:00.000000",
+      "timezone_type": 3,
+      "timezone": "America/Los_Angeles"
+    },
+    "email": null,
+    "hometown": "New York",
+    "website": null,
+    "id": 66599
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66600/",
+    "birth": null,
+    "date_added": "2012-12-05 13:51:27",
+    "date_last_updated": "2012-12-05 13:53:18",
+    "deck": "Mangaka.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Tagro",
+    "site_detail_url": "http://comicvine.gamespot.com/tagro/4040-66600/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66600
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66601/",
+    "birth": null,
+    "date_added": "2012-12-05 15:19:51",
+    "date_last_updated": "2012-12-05 15:21:06",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Dan Fitzgerald",
+    "site_detail_url": "http://comicvine.gamespot.com/dan-fitzgerald/4040-66601/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66601
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66602/",
+    "birth": null,
+    "date_added": "2012-12-05 15:31:52",
+    "date_last_updated": "2013-01-30 11:12:46",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Scott Kinney",
+    "site_detail_url": "http://comicvine.gamespot.com/scott-kinney/4040-66602/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66602
+  },
+  {
+    "aliases": "Christian Colbert",
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66603/",
+    "birth": null,
+    "date_added": "2012-12-05 15:32:08",
+    "date_last_updated": "2015-01-01 13:51:23",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/4305733-9315929914-9f46d.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/4305733-9315929914-9f46d.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/4305733-9315929914-9f46d.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/4305733-9315929914-9f46d.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/4305733-9315929914-9f46d.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/4305733-9315929914-9f46d.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/4305733-9315929914-9f46d.jpg"
+    },
+    "name": "Chris Colbert",
+    "site_detail_url": "http://comicvine.gamespot.com/chris-colbert/4040-66603/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": "http://www.christian-colbert.deviantart.com/",
+    "id": 66603
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66604/",
+    "birth": null,
+    "date_added": "2012-12-05 15:36:32",
+    "date_last_updated": "2013-02-06 13:01:16",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Will Corona Pilgrim",
+    "site_detail_url": "http://comicvine.gamespot.com/will-corona-pilgrim/4040-66604/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66604
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66605/",
+    "birth": null,
+    "date_added": "2012-12-05 15:40:18",
+    "date_last_updated": "2012-12-05 15:42:42",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Ashok Rajagopalan",
+    "site_detail_url": "http://comicvine.gamespot.com/ashok-rajagopalan/4040-66605/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66605
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66606/",
+    "birth": null,
+    "date_added": "2012-12-05 15:40:42",
+    "date_last_updated": "2012-12-05 15:42:42",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Asvin Srivatsangam",
+    "site_detail_url": "http://comicvine.gamespot.com/asvin-srivatsangam/4040-66606/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66606
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66607/",
+    "birth": null,
+    "date_added": "2012-12-05 15:41:05",
+    "date_last_updated": "2012-12-05 15:42:42",
+    "deck": "Penciller.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Judit Tondora",
+    "site_detail_url": "http://comicvine.gamespot.com/judit-tondora/4040-66607/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66607
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66608/",
+    "birth": "1962-11-25 00:00:00",
+    "date_added": "2012-12-05 16:51:04",
+    "date_last_updated": "2012-12-08 13:47:12",
+    "deck": "Artist",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2743158-alaric.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2743158-alaric.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2743158-alaric.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2743158-alaric.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2743158-alaric.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2743158-alaric.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2743158-alaric.jpg"
+    },
+    "name": "Javier Trujillo",
+    "site_detail_url": "http://comicvine.gamespot.com/javier-trujillo/4040-66608/",
+    "story_arc_credits": [
+
+    ],
+    "country": "Spain",
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": "Madrid",
+    "website": null,
+    "id": 66608
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66609/",
+    "birth": "1934-09-06 00:00:00",
+    "date_added": "2012-12-05 17:44:00",
+    "date_last_updated": "2012-12-06 00:19:50",
+    "deck": "Legendary Spanish horror star. Creator of Waldemar Daninsky.",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2738419-paul_naschy.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2738419-paul_naschy.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2738419-paul_naschy.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2738419-paul_naschy.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2738419-paul_naschy.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2738419-paul_naschy.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2738419-paul_naschy.jpg"
+    },
+    "name": "Paul Naschy",
+    "site_detail_url": "http://comicvine.gamespot.com/paul-naschy/4040-66609/",
+    "story_arc_credits": [
+
+    ],
+    "country": "Spain",
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-86666/",
+        "id": 86666,
+        "name": "Alaric de Marnac",
+        "site_detail_url": "http://comicvine.gamespot.com/alaric-de-marnac/4005-86666/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-86667/",
+        "id": 86667,
+        "name": "Waldemar Daninsky",
+        "site_detail_url": "http://comicvine.gamespot.com/waldemar-daninsky/4005-86667/"
+      }
+    ],
+    "death": {
+      "date": "2009-11-30 00:00:00.000000",
+      "timezone_type": 3,
+      "timezone": "America/Los_Angeles"
+    },
+    "email": null,
+    "hometown": "Madrid",
+    "website": null,
+    "id": 66609
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66611/",
+    "birth": null,
+    "date_added": "2012-12-05 20:28:00",
+    "date_last_updated": "2012-12-07 10:30:34",
+    "deck": "Jaime Salangsang is a penciler for Zenescope.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Jaime Salangsang",
+    "site_detail_url": "http://comicvine.gamespot.com/jaime-salangsang/4040-66611/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-127326/",
+        "id": 127326,
+        "name": "George Dupre",
+        "site_detail_url": "http://comicvine.gamespot.com/george-dupre/4005-127326/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-127294/",
+        "id": 127294,
+        "name": "Peacemaker",
+        "site_detail_url": "http://comicvine.gamespot.com/peacemaker/4005-127294/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-127327/",
+        "id": 127327,
+        "name": "Sidney",
+        "site_detail_url": "http://comicvine.gamespot.com/sidney/4005-127327/"
+      }
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66611
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66612/",
+    "birth": null,
+    "date_added": "2012-12-05 20:28:32",
+    "date_last_updated": "2013-02-20 23:46:50",
+    "deck": "Sebastian Cichon is a penciler who works with Zenescope.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Sebastian Cichon",
+    "site_detail_url": "http://comicvine.gamespot.com/sebastian-cichon/4040-66612/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66612
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66613/",
+    "birth": null,
+    "date_added": "2012-12-05 20:28:55",
+    "date_last_updated": "2012-12-07 10:30:35",
+    "deck": "Sarah Perryman is a colorist and digital painter who has worked for Image and Zenescope.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Sarah Perryman",
+    "site_detail_url": "http://comicvine.gamespot.com/sarah-perryman/4040-66613/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66613
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66614/",
+    "birth": null,
+    "date_added": "2012-12-05 20:29:49",
+    "date_last_updated": "2012-12-07 10:30:35",
+    "deck": "Stuart Brown is a colorist for Zenescope.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Stuart Brown",
+    "site_detail_url": "http://comicvine.gamespot.com/stuart-brown/4040-66614/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66614
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66615/",
+    "birth": null,
+    "date_added": "2012-12-05 20:30:03",
+    "date_last_updated": "2013-03-05 04:00:08",
+    "deck": "Noval N. Hernawan is an artist who has drawn for Dynamite Entertainment, Marvel, and Zenescope.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Noval N. Hernawan",
+    "site_detail_url": "http://comicvine.gamespot.com/noval-n-hernawan/4040-66615/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66615
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66616/",
+    "birth": null,
+    "date_added": "2012-12-05 21:42:12",
+    "date_last_updated": "2013-01-16 01:35:41",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Larry Hancock",
+    "site_detail_url": "http://comicvine.gamespot.com/larry-hancock/4040-66616/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66616
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66617/",
+    "birth": null,
+    "date_added": "2012-12-05 21:56:08",
+    "date_last_updated": "2012-12-05 21:57:11",
+    "deck": "Mangaka.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Okiura",
+    "site_detail_url": "http://comicvine.gamespot.com/okiura/4040-66617/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66617
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66618/",
+    "birth": null,
+    "date_added": "2012-12-05 22:02:58",
+    "date_last_updated": "2013-02-13 13:22:50",
+    "deck": "Studio.",
+    "description": "<p>.</p>",
+    "gender": 0,
+    "image": null,
+    "name": "5pb.",
+    "site_detail_url": "http://comicvine.gamespot.com/5pb/4040-66618/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66618
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66619/",
+    "birth": null,
+    "date_added": "2012-12-05 22:05:11",
+    "date_last_updated": "2012-12-05 22:06:12",
+    "deck": "Mangaka.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Keiji Asakawa",
+    "site_detail_url": "http://comicvine.gamespot.com/keiji-asakawa/4040-66619/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66619
+  },
+  {
+    "aliases": "押井守\r\n丸輪 零\r\n名輪 丈\r\n小川 守弘\r\n岩崎 宏\r\n野村 和史",
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66620/",
+    "birth": "1951-08-08 00:00:00",
+    "date_added": "2012-12-05 22:39:06",
+    "date_last_updated": "2015-02-24 01:50:16",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 1,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/4412770-9539759291-Mamor.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/4412770-9539759291-Mamor.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/4412770-9539759291-Mamor.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/4412770-9539759291-Mamor.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/4412770-9539759291-Mamor.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/4412770-9539759291-Mamor.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/4412770-9539759291-Mamor.jpg"
+    },
+    "name": "Mamoru Oshii",
+    "site_detail_url": "http://comicvine.gamespot.com/mamoru-oshii/4040-66620/",
+    "story_arc_credits": [
+
+    ],
+    "country": "Japan",
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": "http://www.oshiimamoru.com/index.htm",
+    "id": 66620
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66621/",
+    "birth": null,
+    "date_added": "2012-12-05 22:39:26",
+    "date_last_updated": "2012-12-05 23:05:17",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Kamui Fujiwara",
+    "site_detail_url": "http://comicvine.gamespot.com/kamui-fujiwara/4040-66621/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66621
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66622/",
+    "birth": null,
+    "date_added": "2012-12-05 22:40:03",
+    "date_last_updated": "2012-12-05 23:05:17",
+    "deck": "Editor.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "John Weeks",
+    "site_detail_url": "http://comicvine.gamespot.com/john-weeks/4040-66622/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66622
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66623/",
+    "birth": null,
+    "date_added": "2012-12-05 22:40:24",
+    "date_last_updated": "2012-12-05 23:05:17",
+    "deck": "Designer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Shawn Sturos",
+    "site_detail_url": "http://comicvine.gamespot.com/shawn-sturos/4040-66623/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66623
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66624/",
+    "birth": null,
+    "date_added": "2012-12-06 01:41:18",
+    "date_last_updated": "2012-12-06 01:45:20",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Franck Bonnet",
+    "site_detail_url": "http://comicvine.gamespot.com/franck-bonnet/4040-66624/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66624
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66625/",
+    "birth": null,
+    "date_added": "2012-12-07 07:17:52",
+    "date_last_updated": "2012-12-07 07:26:10",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Chris Bonham",
+    "site_detail_url": "http://comicvine.gamespot.com/chris-bonham/4040-66625/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66625
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66627/",
+    "birth": null,
+    "date_added": "2012-12-08 01:10:58",
+    "date_last_updated": "2012-12-08 02:04:50",
+    "deck": "Mangaka.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Syum Fujiki",
+    "site_detail_url": "http://comicvine.gamespot.com/syum-fujiki/4040-66627/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66627
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66628/",
+    "birth": null,
+    "date_added": "2012-12-08 04:59:32",
+    "date_last_updated": "2013-02-27 16:14:05",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Sue Braithwaite",
+    "site_detail_url": "http://comicvine.gamespot.com/sue-braithwaite/4040-66628/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66628
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66629/",
+    "birth": null,
+    "date_added": "2012-12-08 05:04:11",
+    "date_last_updated": "2012-12-08 05:08:11",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Matt Weringo",
+    "site_detail_url": "http://comicvine.gamespot.com/matt-weringo/4040-66629/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66629
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66630/",
+    "birth": null,
+    "date_added": "2012-12-08 05:04:35",
+    "date_last_updated": "2013-02-05 15:34:29",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Christian Leaf",
+    "site_detail_url": "http://comicvine.gamespot.com/christian-leaf/4040-66630/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66630
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66631/",
+    "birth": null,
+    "date_added": "2012-12-08 05:05:10",
+    "date_last_updated": "2013-02-05 15:34:29",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Eric Henson",
+    "site_detail_url": "http://comicvine.gamespot.com/eric-henson/4040-66631/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66631
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66632/",
+    "birth": null,
+    "date_added": "2012-12-08 05:05:48",
+    "date_last_updated": "2013-02-25 21:31:38",
+    "deck": "Colorist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Nate Lovett",
+    "site_detail_url": "http://comicvine.gamespot.com/nate-lovett/4040-66632/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66632
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66633/",
+    "birth": null,
+    "date_added": "2012-12-08 08:13:00",
+    "date_last_updated": "2013-03-07 04:17:05",
+    "deck": "Editor.",
+    "description": null,
+    "gender": 1,
+    "image": null,
+    "name": "Yannick Morin",
+    "site_detail_url": "http://comicvine.gamespot.com/yannick-morin/4040-66633/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66633
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66634/",
+    "birth": null,
+    "date_added": "2012-12-08 08:15:41",
+    "date_last_updated": "2013-03-14 03:49:45",
+    "deck": "Editor.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Rich Amtower",
+    "site_detail_url": "http://comicvine.gamespot.com/rich-amtower/4040-66634/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66634
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66635/",
+    "birth": null,
+    "date_added": "2012-12-08 08:21:02",
+    "date_last_updated": "2013-02-13 17:17:51",
+    "deck": "Editor.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Thomas K.",
+    "site_detail_url": "http://comicvine.gamespot.com/thomas-k/4040-66635/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66635
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66636/",
+    "birth": null,
+    "date_added": "2012-12-08 08:25:01",
+    "date_last_updated": "2013-02-27 13:40:29",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Jean-Paul Bonjour",
+    "site_detail_url": "http://comicvine.gamespot.com/jean-paul-bonjour/4040-66636/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66636
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66637/",
+    "birth": null,
+    "date_added": "2012-12-08 08:48:52",
+    "date_last_updated": "2013-06-04 13:08:16",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 2,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Sophia Foster-Dimino",
+    "site_detail_url": "http://comicvine.gamespot.com/sophia-foster-dimino/4040-66637/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66637
+  },
+  {
+    "aliases": "Jennifer de Guzman",
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66638/",
+    "birth": null,
+    "date_added": "2012-12-08 08:49:56",
+    "date_last_updated": "2013-08-16 11:57:20",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "name": "Jennifer DeGuzman",
+    "site_detail_url": "http://comicvine.gamespot.com/jennifer-deguzman/4040-66638/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66638
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66639/",
+    "birth": null,
+    "date_added": "2012-12-08 08:53:08",
+    "date_last_updated": "2013-01-30 10:50:47",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Meng Tian Zhang",
+    "site_detail_url": "http://comicvine.gamespot.com/meng-tian-zhang/4040-66639/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66639
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66640/",
+    "birth": null,
+    "date_added": "2012-12-08 12:52:48",
+    "date_last_updated": "2012-12-08 13:47:56",
+    "deck": "Writer.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Makoto Matsumoto",
+    "site_detail_url": "http://comicvine.gamespot.com/makoto-matsumoto/4040-66640/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66640
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66641/",
+    "birth": null,
+    "date_added": "2012-12-08 12:54:08",
+    "date_last_updated": "2012-12-08 13:47:56",
+    "deck": "Artist.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Maika Netsu",
+    "site_detail_url": "http://comicvine.gamespot.com/maika-netsu/4040-66641/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66641
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66642/",
+    "birth": null,
+    "date_added": "2012-12-08 14:25:57",
+    "date_last_updated": "2012-12-08 14:37:47",
+    "deck": "Mangaka.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Saku Yukizou",
+    "site_detail_url": "http://comicvine.gamespot.com/saku-yukizou/4040-66642/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66642
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66643/",
+    "birth": null,
+    "date_added": "2012-12-08 16:06:37",
+    "date_last_updated": "2012-12-08 16:07:43",
+    "deck": "Ero-manga creator.",
+    "description": null,
+    "gender": 0,
+    "image": null,
+    "name": "Sena Youtarou",
+    "site_detail_url": "http://comicvine.gamespot.com/sena-youtarou/4040-66643/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66643
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66645/",
+    "birth": null,
+    "date_added": "2012-12-08 17:59:34",
+    "date_last_updated": "2012-12-08 17:59:34",
+    "deck": "French graphic artist and writer known for his prehistory illustrations.",
+    "description": null,
+    "gender": 0,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/2743602-andre_houot_20060929_fnac_01.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/2743602-andre_houot_20060929_fnac_01.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/2743602-andre_houot_20060929_fnac_01.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/2743602-andre_houot_20060929_fnac_01.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/2743602-andre_houot_20060929_fnac_01.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/2743602-andre_houot_20060929_fnac_01.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/2743602-andre_houot_20060929_fnac_01.jpg"
+    },
+    "name": "André Houot",
+    "site_detail_url": "http://comicvine.gamespot.com/andre-houot/4040-66645/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66645
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "http://comicvine.gamespot.com/api/person/4040-66647/",
+    "birth": null,
+    "date_added": "2012-12-08 19:41:47",
+    "date_last_updated": "2014-12-02 16:31:31",
+    "deck": "Mangaka.",
+    "description": null,
+    "gender": 2,
+    "image": {
+      "icon_url": "http://comicvine.gamespot.com/api/image/square_avatar/4254248-maki-enjoji.jpg",
+      "medium_url": "http://comicvine.gamespot.com/api/image/scale_medium/4254248-maki-enjoji.jpg",
+      "screen_url": "http://comicvine.gamespot.com/api/image/screen_medium/4254248-maki-enjoji.jpg",
+      "small_url": "http://comicvine.gamespot.com/api/image/scale_small/4254248-maki-enjoji.jpg",
+      "super_url": "http://comicvine.gamespot.com/api/image/scale_large/4254248-maki-enjoji.jpg",
+      "thumb_url": "http://comicvine.gamespot.com/api/image/scale_avatar/4254248-maki-enjoji.jpg",
+      "tiny_url": "http://comicvine.gamespot.com/api/image/square_mini/4254248-maki-enjoji.jpg"
+    },
+    "name": "Maki Enjoji",
+    "site_detail_url": "http://comicvine.gamespot.com/maki-enjoji/4040-66647/",
+    "story_arc_credits": [
+
+    ],
+    "country": null,
+    "created_characters": [
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-106194/",
+        "id": 106194,
+        "name": "Asahina",
+        "site_detail_url": "http://comicvine.gamespot.com/asahina/4005-106194/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-101673/",
+        "id": 101673,
+        "name": "Aya",
+        "site_detail_url": "http://comicvine.gamespot.com/aya/4005-101673/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-101665/",
+        "id": 101665,
+        "name": "Chairman Mamiya",
+        "site_detail_url": "http://comicvine.gamespot.com/chairman-mamiya/4005-101665/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-95091/",
+        "id": 95091,
+        "name": "Chiwa Takanashi",
+        "site_detail_url": "http://comicvine.gamespot.com/chiwa-takanashi/4005-95091/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-101669/",
+        "id": 101669,
+        "name": "Eri",
+        "site_detail_url": "http://comicvine.gamespot.com/eri/4005-101669/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-95090/",
+        "id": 95090,
+        "name": "Hokuto Mamiya",
+        "site_detail_url": "http://comicvine.gamespot.com/hokuto-mamiya/4005-95090/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-103907/",
+        "id": 103907,
+        "name": "Katagiri",
+        "site_detail_url": "http://comicvine.gamespot.com/katagiri/4005-103907/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-101670/",
+        "id": 101670,
+        "name": "Mayu",
+        "site_detail_url": "http://comicvine.gamespot.com/mayu/4005-101670/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-101666/",
+        "id": 101666,
+        "name": "Minamida Takada",
+        "site_detail_url": "http://comicvine.gamespot.com/minamida-takada/4005-101666/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-110234/",
+        "id": 110234,
+        "name": "Misaki Shitara",
+        "site_detail_url": "http://comicvine.gamespot.com/misaki-shitara/4005-110234/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-101671/",
+        "id": 101671,
+        "name": "Mr. Takanashi",
+        "site_detail_url": "http://comicvine.gamespot.com/mr-takanashi/4005-101671/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-101668/",
+        "id": 101668,
+        "name": "Nemoto",
+        "site_detail_url": "http://comicvine.gamespot.com/nemoto/4005-101668/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-101667/",
+        "id": 101667,
+        "name": "Sawa Takada",
+        "site_detail_url": "http://comicvine.gamespot.com/sawa-takada/4005-101667/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-101674/",
+        "id": 101674,
+        "name": "Sayaka",
+        "site_detail_url": "http://comicvine.gamespot.com/sayaka/4005-101674/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-100302/",
+        "id": 100302,
+        "name": "Shinjo Sakuraba",
+        "site_detail_url": "http://comicvine.gamespot.com/shinjo-sakuraba/4005-100302/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-101672/",
+        "id": 101672,
+        "name": "Taeko Soma",
+        "site_detail_url": "http://comicvine.gamespot.com/taeko-soma/4005-101672/"
+      },
+      {
+        "api_detail_url": "http://comicvine.gamespot.com/api/character/4005-97778/",
+        "id": 97778,
+        "name": "Yu Yagami",
+        "site_detail_url": "http://comicvine.gamespot.com/yu-yagami/4005-97778/"
+      }
+    ],
+    "death": null,
+    "email": null,
+    "hometown": null,
+    "website": null,
+    "id": 66647
+  }
+]

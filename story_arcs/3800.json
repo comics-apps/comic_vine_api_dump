@@ -1,0 +1,684 @@
+[
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59328/",
+    "date_added": "2017-03-28 15:40:21",
+    "date_last_updated": "2017-03-28 15:40:46",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-589831/",
+      "id": 589831,
+      "name": null,
+      "issue_number": "1"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "Resurrxion",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+      "id": 31,
+      "name": "Marvel",
+      "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/resurrxion/4045-59328/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-589842/",
+        "id": 589842,
+        "name": "",
+        "site_detail_url": "https://comicvine.gamespot.com/x-men-prime-1/4000-589842/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-589831/",
+        "id": 589831,
+        "name": "",
+        "site_detail_url": "https://comicvine.gamespot.com/inhumans-prime-1/4000-589831/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590802/",
+        "id": 590802,
+        "name": "Another Future Song",
+        "site_detail_url": "https://comicvine.gamespot.com/royals-1-another-future-song/4000-590802/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59328
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59329/",
+    "date_added": "2017-03-28 17:23:49",
+    "date_last_updated": "2017-03-28 17:24:11",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-589849/",
+      "id": 589849,
+      "name": "This Is Not the End Part One",
+      "issue_number": "27"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "This Is Not the End",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-513/",
+      "id": 513,
+      "name": "Image",
+      "site_detail_url": "https://comicvine.gamespot.com/image/4010-513/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/this-is-not-the-end/4045-59329/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-589849/",
+        "id": 589849,
+        "name": "This Is Not the End Part One",
+        "site_detail_url": "https://comicvine.gamespot.com/deadly-class-27-this-is-not-the-end-part-one/4000-589849/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59329
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59330/",
+    "date_added": "2017-03-28 23:23:40",
+    "date_last_updated": "2017-03-28 23:24:28",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-589875/",
+      "id": 589875,
+      "name": "Sin-Eaters Part 1",
+      "issue_number": "11"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "Sin-Eaters",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-4212/",
+      "id": 4212,
+      "name": "Titan Comics",
+      "site_detail_url": "https://comicvine.gamespot.com/titan-comics/4010-4212/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/sin-eaters/4045-59330/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-589875/",
+        "id": 589875,
+        "name": "Sin-Eaters Part 1",
+        "site_detail_url": "https://comicvine.gamespot.com/doctor-who-the-ninth-doctor-ongoing-11-sin-eaters-/4000-589875/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59330
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59331/",
+    "date_added": "2017-03-31 03:22:49",
+    "date_last_updated": "2017-03-31 03:23:12",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-588520/",
+      "id": 588520,
+      "name": "The Devil In Iron Part 1",
+      "issue_number": "7"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "The Devil In Iron",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-364/",
+      "id": 364,
+      "name": "Dark Horse Comics",
+      "site_detail_url": "https://comicvine.gamespot.com/dark-horse-comics/4010-364/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/the-devil-in-iron/4045-59331/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-588520/",
+        "id": 588520,
+        "name": "The Devil In Iron Part 1",
+        "site_detail_url": "https://comicvine.gamespot.com/conan-the-slayer-7-the-devil-in-iron-part-1/4000-588520/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59331
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59332/",
+    "date_added": "2017-04-02 19:34:34",
+    "date_last_updated": "2017-04-02 19:34:34",
+    "deck": "After a swarm of bloodthirsty mosquitoes attacks Z-City Saitama attempts to kill a mosquito but fails. Meanwhile, a cyborg named Genos engages in combat with Mosquito Girl, a demon level threat. Saitama interrupts their fight trying to kill said Mosquito and kills Mosquito Girl in the process. After witnessing his strength, Genos becomes Saitama's disciple and the two take the down the evil organization known as the House of Evolution",
+    "description": null,
+    "first_appeared_in_issue": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5783848-3243554989-latest",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5783848-3243554989-latest",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5783848-3243554989-latest",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5783848-3243554989-latest",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5783848-3243554989-latest",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5783848-3243554989-latest",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5783848-3243554989-latest"
+    },
+    "movies": [
+
+    ],
+    "name": "House of Evolution arc",
+    "publisher": null,
+    "site_detail_url": "https://comicvine.gamespot.com/house-of-evolution-arc/4045-59332/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59332
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59333/",
+    "date_added": "2017-04-03 20:19:34",
+    "date_last_updated": "2017-04-03 20:20:01",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-589694/",
+      "id": 589694,
+      "name": "Truly Outrageous Part One",
+      "issue_number": "24"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "Truly Outrageous",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-1190/",
+      "id": 1190,
+      "name": "IDW Publishing",
+      "site_detail_url": "https://comicvine.gamespot.com/idw-publishing/4010-1190/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/truly-outrageous/4045-59333/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-589694/",
+        "id": 589694,
+        "name": "Truly Outrageous Part One",
+        "site_detail_url": "https://comicvine.gamespot.com/jem-and-the-holograms-24-truly-outrageous-part-one/4000-589694/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590671/",
+        "id": 590671,
+        "name": "Truly Outrageous Part Two",
+        "site_detail_url": "https://comicvine.gamespot.com/jem-and-the-holograms-25-truly-outrageous-part-two/4000-590671/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59333
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59334/",
+    "date_added": "2017-04-03 21:32:11",
+    "date_last_updated": "2017-04-03 21:32:29",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-590679/",
+      "id": 590679,
+      "name": null,
+      "issue_number": "16"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "Hero Cats of Skyworld",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-3183/",
+      "id": 3183,
+      "name": "Action Lab",
+      "site_detail_url": "https://comicvine.gamespot.com/action-lab/4010-3183/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/hero-cats-of-skyworld/4045-59334/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590679/",
+        "id": 590679,
+        "name": "",
+        "site_detail_url": "https://comicvine.gamespot.com/hero-cats-16/4000-590679/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59334
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59335/",
+    "date_added": "2017-04-04 10:30:01",
+    "date_last_updated": "2017-04-04 10:30:28",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-590775/",
+      "id": 590775,
+      "name": "Red Meat Part One: Mantra Mix-Up; Harley Loves Joker Part One",
+      "issue_number": "17"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "Harley Loves Joker",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-10/",
+      "id": 10,
+      "name": "DC Comics",
+      "site_detail_url": "https://comicvine.gamespot.com/dc-comics/4010-10/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/harley-loves-joker/4045-59335/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590775/",
+        "id": 590775,
+        "name": "Red Meat Part One: Mantra Mix-Up; Harley Loves Joker Part One",
+        "site_detail_url": "https://comicvine.gamespot.com/harley-quinn-17-red-meat-part-one-mantra-mix-up-ha/4000-590775/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59335
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59336/",
+    "date_added": "2017-04-04 10:30:02",
+    "date_last_updated": "2017-04-04 10:30:33",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-590775/",
+      "id": 590775,
+      "name": "Red Meat Part One: Mantra Mix-Up; Harley Loves Joker Part One",
+      "issue_number": "17"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "Red Meat",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-10/",
+      "id": 10,
+      "name": "DC Comics",
+      "site_detail_url": "https://comicvine.gamespot.com/dc-comics/4010-10/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/red-meat/4045-59336/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590775/",
+        "id": 590775,
+        "name": "Red Meat Part One: Mantra Mix-Up; Harley Loves Joker Part One",
+        "site_detail_url": "https://comicvine.gamespot.com/harley-quinn-17-red-meat-part-one-mantra-mix-up-ha/4000-590775/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59336
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59337/",
+    "date_added": "2017-04-04 10:54:31",
+    "date_last_updated": "2017-04-04 10:54:44",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-590782/",
+      "id": 590782,
+      "name": "Black Dawn Chapter 1",
+      "issue_number": "20"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "Black Dawn",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-10/",
+      "id": 10,
+      "name": "DC Comics",
+      "site_detail_url": "https://comicvine.gamespot.com/dc-comics/4010-10/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/black-dawn/4045-59337/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590782/",
+        "id": 590782,
+        "name": "Black Dawn Chapter 1",
+        "site_detail_url": "https://comicvine.gamespot.com/superman-20-black-dawn-chapter-1/4000-590782/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59337
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59338/",
+    "date_added": "2017-04-04 11:02:22",
+    "date_last_updated": "2017-04-04 11:02:54",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-590784/",
+      "id": 590784,
+      "name": "The Faithless Part One",
+      "issue_number": "10"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "The Faithless",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-485/",
+      "id": 485,
+      "name": "Valiant",
+      "site_detail_url": "https://comicvine.gamespot.com/valiant/4010-485/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/the-faithless/4045-59338/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590784/",
+        "id": 590784,
+        "name": "The Faithless Part One",
+        "site_detail_url": "https://comicvine.gamespot.com/faith-10-the-faithless-part-one/4000-590784/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59338
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59339/",
+    "date_added": "2017-04-04 15:41:41",
+    "date_last_updated": "2017-04-04 15:41:41",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-590785/",
+      "id": 590785,
+      "name": "Immune Part 1 of 3",
+      "issue_number": "19"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "Immune",
+    "publisher": null,
+    "site_detail_url": "https://comicvine.gamespot.com/immune/4045-59339/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590785/",
+        "id": 590785,
+        "name": "Immune Part 1 of 3",
+        "site_detail_url": "https://comicvine.gamespot.com/all-new-wolverine-19-immune-part-1-of-3/4000-590785/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59339
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59340/",
+    "date_added": "2017-04-06 04:56:29",
+    "date_last_updated": "2017-04-07 11:25:51",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-588928/",
+      "id": 588928,
+      "name": "Winter Is Coming Part 1 of 3",
+      "issue_number": "88"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "Winter Is Coming",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-10/",
+      "id": 10,
+      "name": "DC Comics",
+      "site_detail_url": "https://comicvine.gamespot.com/dc-comics/4010-10/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/winter-is-coming/4045-59340/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-588928/",
+        "id": 588928,
+        "name": "Winter Is Coming Part 1 of 3",
+        "site_detail_url": "https://comicvine.gamespot.com/dc-comics-bombshells-88-winter-is-coming-part-1-of/4000-588928/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590015/",
+        "id": 590015,
+        "name": "Winter Is Coming Part 2 of 3",
+        "site_detail_url": "https://comicvine.gamespot.com/dc-comics-bombshells-89-winter-is-coming-part-2-of/4000-590015/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590980/",
+        "id": 590980,
+        "name": "Winter Is Coming Part 3 of 3",
+        "site_detail_url": "https://comicvine.gamespot.com/dc-comics-bombshells-90-winter-is-coming-part-3-of/4000-590980/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59340
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/story_arc/4045-59341/",
+    "date_added": "2017-04-07 05:27:01",
+    "date_last_updated": "2017-04-07 05:27:34",
+    "deck": null,
+    "description": null,
+    "first_appeared_in_issue": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-590811/",
+      "id": 590811,
+      "name": "Back To The Basics Part 1",
+      "issue_number": "1"
+    },
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1-male-good-large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1-male-good-large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1-male-good-large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1-male-good-large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1-male-good-large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1-male-good-large.jpg"
+    },
+    "movies": [
+
+    ],
+    "name": "Back To The Basics",
+    "publisher": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+      "id": 31,
+      "name": "Marvel",
+      "site_detail_url": "https://comicvine.gamespot.com/marvel/4010-31/"
+    },
+    "site_detail_url": "https://comicvine.gamespot.com/back-to-the-basics/4045-59341/",
+    "count_of_isssue_appearances": 0,
+    "issues": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590811/",
+        "id": 590811,
+        "name": "Back To The Basics Part 1",
+        "site_detail_url": "https://comicvine.gamespot.com/x-men-gold-1-back-to-the-basics-part-1/4000-590811/"
+      }
+    ],
+    "episodes": [
+
+    ],
+    "first_appeared_in_episode": null,
+    "id": 59341
+  }
+]

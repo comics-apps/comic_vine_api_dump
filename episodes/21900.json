@@ -1,0 +1,2662 @@
+[
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22535/",
+    "date_added": "2017-04-08 08:54:15",
+    "date_last_updated": "2017-04-10 07:35:34",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5793661-mothers_beat_up_scam.png",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5793661-mothers_beat_up_scam.png",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5793661-mothers_beat_up_scam.png",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5793661-mothers_beat_up_scam.png",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5793661-mothers_beat_up_scam.png",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5793661-mothers_beat_up_scam.png",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5793661-mothers_beat_up_scam.png"
+    },
+    "name": "Mommies Dearest",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-210-mommies-dearest/4070-22535/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": "2003-08-25",
+    "character_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70748/",
+        "id": 70748,
+        "name": "Alex",
+        "site_detail_url": "https://comicvine.gamespot.com/alex/4005-70748/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70749/",
+        "id": 70749,
+        "name": "Clover",
+        "site_detail_url": "https://comicvine.gamespot.com/clover/4005-70749/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70750/",
+        "id": 70750,
+        "name": "Jerry Lewis",
+        "site_detail_url": "https://comicvine.gamespot.com/jerry-lewis/4005-70750/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70747/",
+        "id": 70747,
+        "name": "Sam Simpson",
+        "site_detail_url": "https://comicvine.gamespot.com/sam-simpson/4005-70747/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-138140/",
+        "id": 138140,
+        "name": "Tim Scam",
+        "site_detail_url": "https://comicvine.gamespot.com/tim-scam/4005-138140/"
+      }
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/concept/4015-56239/",
+        "id": 56239,
+        "name": "Martial Arts",
+        "site_detail_url": "https://comicvine.gamespot.com/martial-arts/4015-56239/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/concept/4015-56409/",
+        "id": 56409,
+        "name": "Spies",
+        "site_detail_url": "https://comicvine.gamespot.com/spies/4015-56409/"
+      }
+    ],
+    "episode_number": "210",
+    "first_appearance_characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70750/",
+        "id": 70750,
+        "name": "Jerry Lewis",
+        "site_detail_url": "https://comicvine.gamespot.com/jerry-lewis/4005-70750/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70748/",
+        "id": 70748,
+        "name": "Alex",
+        "site_detail_url": "https://comicvine.gamespot.com/alex/4005-70748/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70747/",
+        "id": 70747,
+        "name": "Sam Simpson",
+        "site_detail_url": "https://comicvine.gamespot.com/sam-simpson/4005-70747/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70749/",
+        "id": 70749,
+        "name": "Clover",
+        "site_detail_url": "https://comicvine.gamespot.com/clover/4005-70749/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-138140/",
+        "id": 138140,
+        "name": "Tim Scam",
+        "site_detail_url": "https://comicvine.gamespot.com/tim-scam/4005-138140/"
+      }
+    ],
+    "first_appearance_concepts": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/concept/4015-56409/",
+        "id": 56409,
+        "name": "Spies",
+        "site_detail_url": "https://comicvine.gamespot.com/spies/4015-56409/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/concept/4015-56239/",
+        "id": 56239,
+        "name": "Martial Arts",
+        "site_detail_url": "https://comicvine.gamespot.com/martial-arts/4015-56239/"
+      }
+    ],
+    "first_appearance_locations": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/location/4020-59023/",
+        "id": 59023,
+        "name": "Beverly Hills",
+        "site_detail_url": "https://comicvine.gamespot.com/beverly-hills/4020-59023/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/location/4020-55794/",
+        "id": 55794,
+        "name": "England",
+        "site_detail_url": "https://comicvine.gamespot.com/england/4020-55794/"
+      }
+    ],
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-60999/",
+        "id": 60999,
+        "name": "WOOHP",
+        "site_detail_url": "https://comicvine.gamespot.com/woohp/4060-60999/"
+      }
+    ],
+    "location_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/location/4020-59023/",
+        "id": 59023,
+        "name": "Beverly Hills",
+        "site_detail_url": "https://comicvine.gamespot.com/beverly-hills/4020-59023/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/location/4020-55794/",
+        "id": 55794,
+        "name": "England",
+        "site_detail_url": "https://comicvine.gamespot.com/england/4020-55794/"
+      }
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-60999/",
+        "id": 60999,
+        "name": "WOOHP",
+        "site_detail_url": "https://comicvine.gamespot.com/woohp/4060-60999/"
+      }
+    ],
+    "has_staff_review": false,
+    "id": 22535
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22536/",
+    "date_added": "2017-04-08 08:54:20",
+    "date_last_updated": "2017-04-08 08:54:20",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5793663-hqdefaultezzjk1cq.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5793663-hqdefaultezzjk1cq.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5793663-hqdefaultezzjk1cq.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5793663-hqdefaultezzjk1cq.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5793663-hqdefaultezzjk1cq.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5793663-hqdefaultezzjk1cq.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5793663-hqdefaultezzjk1cq.jpg"
+    },
+    "name": "Zooney World",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-211-zooney-world/4070-22536/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "211",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22536
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22537/",
+    "date_added": "2017-04-08 08:54:26",
+    "date_last_updated": "2017-04-08 08:54:27",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5793664-maxresdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5793664-maxresdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5793664-maxresdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5793664-maxresdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5793664-maxresdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5793664-maxresdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5793664-maxresdefault.jpg"
+    },
+    "name": "First Brat",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-212-first-brat/4070-22537/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "212",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22537
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22538/",
+    "date_added": "2017-04-08 08:54:32",
+    "date_last_updated": "2017-04-08 08:54:32",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5793665-hqdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5793665-hqdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5793665-hqdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5793665-hqdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5793665-hqdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5793665-hqdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5793665-hqdefault.jpg"
+    },
+    "name": "W.O.W.",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-213-wow/4070-22538/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "213",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22538
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22539/",
+    "date_added": "2017-04-08 09:12:39",
+    "date_last_updated": "2017-04-08 09:15:10",
+    "deck": null,
+    "description": "<p><em>Oliver (Stephen Amell), Team Arrow, ARGUS and the SCPD kick off a citywide manhunt for Adrian Chase (Josh Segurra). Helix tells Felicity (Emily Bett Rickards) they have a way to find Chase but they will need something big, and illegal, from her in return.</em></p>",
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5793765-519.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5793765-519.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5793765-519.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5793765-519.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5793765-519.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5793765-519.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5793765-519.jpg"
+    },
+    "name": "Dangerous Liaisons",
+    "site_detail_url": "https://comicvine.gamespot.com/arrow-519-dangerous-liaisons/4070-22539/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": "2017-04-26",
+    "character_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-2541/",
+        "id": 2541,
+        "name": "Felicity Smoak",
+        "site_detail_url": "https://comicvine.gamespot.com/felicity-smoak/4005-2541/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-5936/",
+        "id": 5936,
+        "name": "Green Arrow",
+        "site_detail_url": "https://comicvine.gamespot.com/green-arrow/4005-5936/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-86315/",
+        "id": 86315,
+        "name": "John Diggle",
+        "site_detail_url": "https://comicvine.gamespot.com/john-diggle/4005-86315/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-19179/",
+        "id": 19179,
+        "name": "Mr. Terrific",
+        "site_detail_url": "https://comicvine.gamespot.com/mr-terrific/4005-19179/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-9947/",
+        "id": 9947,
+        "name": "Vigilante",
+        "site_detail_url": "https://comicvine.gamespot.com/vigilante/4005-9947/"
+      }
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "519",
+    "first_appearance_characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-19179/",
+        "id": 19179,
+        "name": "Mr. Terrific",
+        "site_detail_url": "https://comicvine.gamespot.com/mr-terrific/4005-19179/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-86315/",
+        "id": 86315,
+        "name": "John Diggle",
+        "site_detail_url": "https://comicvine.gamespot.com/john-diggle/4005-86315/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-2541/",
+        "id": 2541,
+        "name": "Felicity Smoak",
+        "site_detail_url": "https://comicvine.gamespot.com/felicity-smoak/4005-2541/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-9947/",
+        "id": 9947,
+        "name": "Vigilante",
+        "site_detail_url": "https://comicvine.gamespot.com/vigilante/4005-9947/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-5936/",
+        "id": 5936,
+        "name": "Green Arrow",
+        "site_detail_url": "https://comicvine.gamespot.com/green-arrow/4005-5936/"
+      }
+    ],
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-59012/",
+        "id": 59012,
+        "name": "A.R.G.U.S.",
+        "site_detail_url": "https://comicvine.gamespot.com/argus/4060-59012/"
+      }
+    ],
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-3/",
+      "id": 3,
+      "name": "Arrow",
+      "site_detail_url": "https://comicvine.gamespot.com/arrow/4075-3/"
+    },
+    "team_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-59012/",
+        "id": 59012,
+        "name": "A.R.G.U.S.",
+        "site_detail_url": "https://comicvine.gamespot.com/argus/4060-59012/"
+      }
+    ],
+    "has_staff_review": false,
+    "id": 22539
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22540/",
+    "date_added": "2017-04-08 09:12:41",
+    "date_last_updated": "2017-04-08 09:16:24",
+    "deck": null,
+    "description": "<p><em>Nygma convinces himself that he doesn't need Penguin to succeed and begins to introduce himself to Gotham as 'The Riddler.' Bullock and Lucius Fox get caught up in Nygma's mind games, while Gordon learns troubling news about his father's death. Meanwhile, the Court of the Owls reveals its next move.</em></p>",
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5793766-315.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5793766-315.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5793766-315.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5793766-315.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5793766-315.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5793766-315.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5793766-315.jpg"
+    },
+    "name": "How the Riddler Got His Name",
+    "site_detail_url": "https://comicvine.gamespot.com/gotham-315-how-the-riddler-got-his-name/4070-22540/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": "2017-04-24",
+    "character_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-1699/",
+        "id": 1699,
+        "name": "Batman",
+        "site_detail_url": "https://comicvine.gamespot.com/batman/4005-1699/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-5554/",
+        "id": 5554,
+        "name": "Harvey Bullock",
+        "site_detail_url": "https://comicvine.gamespot.com/harvey-bullock/4005-5554/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-3738/",
+        "id": 3738,
+        "name": "Lucius Fox",
+        "site_detail_url": "https://comicvine.gamespot.com/lucius-fox/4005-3738/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-4885/",
+        "id": 4885,
+        "name": "Penguin",
+        "site_detail_url": "https://comicvine.gamespot.com/penguin/4005-4885/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-3718/",
+        "id": 3718,
+        "name": "Riddler",
+        "site_detail_url": "https://comicvine.gamespot.com/riddler/4005-3718/"
+      }
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "315",
+    "first_appearance_characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-1699/",
+        "id": 1699,
+        "name": "Batman",
+        "site_detail_url": "https://comicvine.gamespot.com/batman/4005-1699/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-3738/",
+        "id": 3738,
+        "name": "Lucius Fox",
+        "site_detail_url": "https://comicvine.gamespot.com/lucius-fox/4005-3738/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-5554/",
+        "id": 5554,
+        "name": "Harvey Bullock",
+        "site_detail_url": "https://comicvine.gamespot.com/harvey-bullock/4005-5554/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-4885/",
+        "id": 4885,
+        "name": "Penguin",
+        "site_detail_url": "https://comicvine.gamespot.com/penguin/4005-4885/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-3718/",
+        "id": 3718,
+        "name": "Riddler",
+        "site_detail_url": "https://comicvine.gamespot.com/riddler/4005-3718/"
+      }
+    ],
+    "first_appearance_concepts": null,
+    "first_appearance_locations": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/location/4020-23611/",
+        "id": 23611,
+        "name": "Gotham City",
+        "site_detail_url": "https://comicvine.gamespot.com/gotham-city/4020-23611/"
+      }
+    ],
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-58693/",
+        "id": 58693,
+        "name": "Court of Owls",
+        "site_detail_url": "https://comicvine.gamespot.com/court-of-owls/4060-58693/"
+      }
+    ],
+    "location_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/location/4020-23611/",
+        "id": 23611,
+        "name": "Gotham City",
+        "site_detail_url": "https://comicvine.gamespot.com/gotham-city/4020-23611/"
+      }
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-427/",
+      "id": 427,
+      "name": "Gotham",
+      "site_detail_url": "https://comicvine.gamespot.com/gotham/4075-427/"
+    },
+    "team_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-58693/",
+        "id": 58693,
+        "name": "Court of Owls",
+        "site_detail_url": "https://comicvine.gamespot.com/court-of-owls/4060-58693/"
+      }
+    ],
+    "has_staff_review": false,
+    "id": 22540
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22541/",
+    "date_added": "2017-04-08 09:12:43",
+    "date_last_updated": "2017-04-08 09:17:20",
+    "deck": null,
+    "description": "<p><em>When Liv (Rose McIver), Clive (Malcolm Goodwin) and Ravi (Rahul Kohli) arrive at the scene to investigate a fatal car accident, they begin to suspect foul play was involved. Both starving, Liv and Major (Robert Buckley) consume the brains of the accident victims, a well-meaning father and his angsty teenage daughter. Meanwhile, when Clive is brought in for questioning about a family that was murdered, he’s forced to reveal his past history with them. Lastly, Peyton (Aly Michalka) extends an olive branch to Ravi (Rahul Kohli), and Major hits a road block in his search for Natalie (guest star Brooke Lyons “The Affair”).</em></p>",
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5793767-304.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5793767-304.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5793767-304.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5793767-304.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5793767-304.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5793767-304.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5793767-304.jpg"
+    },
+    "name": "Wag the Tongue Slowly",
+    "site_detail_url": "https://comicvine.gamespot.com/izombie-304-wag-the-tongue-slowly/4070-22541/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": "2017-04-25",
+    "character_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-66861/",
+        "id": 66861,
+        "name": "Gwen Dylan",
+        "site_detail_url": "https://comicvine.gamespot.com/gwen-dylan/4005-66861/"
+      }
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "304",
+    "first_appearance_characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-66861/",
+        "id": 66861,
+        "name": "Gwen Dylan",
+        "site_detail_url": "https://comicvine.gamespot.com/gwen-dylan/4005-66861/"
+      }
+    ],
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-44930/",
+        "id": 44930,
+        "name": "Zombies",
+        "site_detail_url": "https://comicvine.gamespot.com/zombies/4060-44930/"
+      }
+    ],
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-500/",
+      "id": 500,
+      "name": "iZombie",
+      "site_detail_url": "https://comicvine.gamespot.com/i-zombie/4075-500/"
+    },
+    "team_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-44930/",
+        "id": 44930,
+        "name": "Zombies",
+        "site_detail_url": "https://comicvine.gamespot.com/zombies/4060-44930/"
+      }
+    ],
+    "has_staff_review": false,
+    "id": 22541
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22542/",
+    "date_added": "2017-04-08 14:25:41",
+    "date_last_updated": "2017-04-08 14:25:42",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794366-hqdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794366-hqdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794366-hqdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794366-hqdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794366-hqdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794366-hqdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794366-hqdefault.jpg"
+    },
+    "name": "Stark Raving Mad",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-214-stark-raving-mad/4070-22542/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "214",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22542
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22543/",
+    "date_added": "2017-04-08 14:25:47",
+    "date_last_updated": "2017-04-08 14:25:47",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794370-spi.png",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794370-spi.png",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794370-spi.png",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794370-spi.png",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794370-spi.png",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794370-spi.png",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794370-spi.png"
+    },
+    "name": "S.P.I.",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-215-spi/4070-22543/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "215",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22543
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22544/",
+    "date_added": "2017-04-08 14:25:52",
+    "date_last_updated": "2017-04-08 14:25:53",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794374-dr.fox1.png",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794374-dr.fox1.png",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794374-dr.fox1.png",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794374-dr.fox1.png",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794374-dr.fox1.png",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794374-dr.fox1.png",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794374-dr.fox1.png"
+    },
+    "name": "Animal World",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-216-animal-world/4070-22544/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "216",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22544
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22545/",
+    "date_added": "2017-04-08 14:25:56",
+    "date_last_updated": "2017-04-08 14:25:57",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794376-spies146.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794376-spies146.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794376-spies146.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794376-spies146.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794376-spies146.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794376-spies146.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794376-spies146.jpg"
+    },
+    "name": "Nature Nightmare",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-217-nature-nightmare/4070-22545/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "217",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22545
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22546/",
+    "date_added": "2017-04-08 17:35:39",
+    "date_last_updated": "2017-04-08 17:35:39",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794381-alexquits.png",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794381-alexquits.png",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794381-alexquits.png",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794381-alexquits.png",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794381-alexquits.png",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794381-alexquits.png",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794381-alexquits.png"
+    },
+    "name": "Alex Quits",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-218-alex-quits/4070-22546/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "218",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22546
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22547/",
+    "date_added": "2017-04-08 17:35:47",
+    "date_last_updated": "2017-04-08 17:35:48",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794386-f6be22fda34f327efd7cbb4ea2135ab523f4b721875e771281030cf7c9df01ab_large.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794386-f6be22fda34f327efd7cbb4ea2135ab523f4b721875e771281030cf7c9df01ab_large.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794386-f6be22fda34f327efd7cbb4ea2135ab523f4b721875e771281030cf7c9df01ab_large.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794386-f6be22fda34f327efd7cbb4ea2135ab523f4b721875e771281030cf7c9df01ab_large.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794386-f6be22fda34f327efd7cbb4ea2135ab523f4b721875e771281030cf7c9df01ab_large.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794386-f6be22fda34f327efd7cbb4ea2135ab523f4b721875e771281030cf7c9df01ab_large.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794386-f6be22fda34f327efd7cbb4ea2135ab523f4b721875e771281030cf7c9df01ab_large.jpg"
+    },
+    "name": "Totally Switched",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-219-totally-switched/4070-22547/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "219",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22547
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22548/",
+    "date_added": "2017-04-08 17:35:52",
+    "date_last_updated": "2017-04-08 17:35:52",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794387-elevator_by_tashaelagraylovesart-d76ih9a.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794387-elevator_by_tashaelagraylovesart-d76ih9a.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794387-elevator_by_tashaelagraylovesart-d76ih9a.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794387-elevator_by_tashaelagraylovesart-d76ih9a.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794387-elevator_by_tashaelagraylovesart-d76ih9a.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794387-elevator_by_tashaelagraylovesart-d76ih9a.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794387-elevator_by_tashaelagraylovesart-d76ih9a.jpg"
+    },
+    "name": "Totally Switched",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-220-totally-switched/4070-22548/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "220",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22548
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22549/",
+    "date_added": "2017-04-08 17:35:56",
+    "date_last_updated": "2017-04-08 17:35:57",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794390-hqdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794390-hqdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794390-hqdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794390-hqdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794390-hqdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794390-hqdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794390-hqdefault.jpg"
+    },
+    "name": "Ski Trip",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-221-ski-trip/4070-22549/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "221",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22549
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22550/",
+    "date_added": "2017-04-08 17:36:01",
+    "date_last_updated": "2017-04-08 17:36:01",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794391-chris.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794391-chris.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794391-chris.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794391-chris.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794391-chris.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794391-chris.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794391-chris.jpg"
+    },
+    "name": "Matchmaker",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-222-matchmaker/4070-22550/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "222",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22550
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22551/",
+    "date_added": "2017-04-08 17:36:05",
+    "date_last_updated": "2017-04-08 17:36:06",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794392-is_it_me.png",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794392-is_it_me.png",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794392-is_it_me.png",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794392-is_it_me.png",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794392-is_it_me.png",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794392-is_it_me.png",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794392-is_it_me.png"
+    },
+    "name": "Brain Drain",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-223-brain-drain/4070-22551/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "223",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22551
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22552/",
+    "date_added": "2017-04-08 17:36:09",
+    "date_last_updated": "2017-04-08 17:36:10",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794394-1280x720-dqq.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794394-1280x720-dqq.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794394-1280x720-dqq.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794394-1280x720-dqq.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794394-1280x720-dqq.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794394-1280x720-dqq.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794394-1280x720-dqq.jpg"
+    },
+    "name": "Fashion Faux Pas",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-224-fashion-faux-pas/4070-22552/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "224",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22552
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22553/",
+    "date_added": "2017-04-08 17:36:15",
+    "date_last_updated": "2017-04-08 17:36:15",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794395-timthumb.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794395-timthumb.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794395-timthumb.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794395-timthumb.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794395-timthumb.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794395-timthumb.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794395-timthumb.jpg"
+    },
+    "name": "Toying Around",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-225-toying-around/4070-22553/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "225",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22553
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22554/",
+    "date_added": "2017-04-08 17:36:19",
+    "date_last_updated": "2017-04-08 17:36:19",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794396-normal_ndvd_022.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794396-normal_ndvd_022.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794396-normal_ndvd_022.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794396-normal_ndvd_022.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794396-normal_ndvd_022.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794396-normal_ndvd_022.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794396-normal_ndvd_022.jpg"
+    },
+    "name": "Starstruck",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-226-starstruck/4070-22554/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "226",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22554
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22555/",
+    "date_added": "2017-04-08 17:36:24",
+    "date_last_updated": "2017-04-08 17:36:24",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794402-04.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794402-04.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794402-04.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794402-04.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794402-04.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794402-04.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794402-04.jpg"
+    },
+    "name": "Physics 101 Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-301-physics-101-much/4070-22555/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "301",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22555
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22556/",
+    "date_added": "2017-04-09 06:14:33",
+    "date_last_updated": "2017-04-09 06:14:34",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794900-normal_bscap024.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794900-normal_bscap024.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794900-normal_bscap024.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794900-normal_bscap024.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794900-normal_bscap024.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794900-normal_bscap024.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794900-normal_bscap024.jpg"
+    },
+    "name": "Freaky Circus Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-302-freaky-circus-much/4070-22556/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "302",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22556
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22557/",
+    "date_added": "2017-04-09 06:14:39",
+    "date_last_updated": "2017-04-09 06:14:40",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794901-normal_output_000157computercreepmuch.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794901-normal_output_000157computercreepmuch.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794901-normal_output_000157computercreepmuch.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794901-normal_output_000157computercreepmuch.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794901-normal_output_000157computercreepmuch.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794901-normal_output_000157computercreepmuch.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794901-normal_output_000157computercreepmuch.jpg"
+    },
+    "name": "Computer Creep Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-303-computer-creep-much/4070-22557/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "303",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22557
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22558/",
+    "date_added": "2017-04-09 06:14:44",
+    "date_last_updated": "2017-04-09 06:14:44",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794902-maxresdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794902-maxresdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794902-maxresdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794902-maxresdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794902-maxresdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794902-maxresdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794902-maxresdefault.jpg"
+    },
+    "name": "Space Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-304-space-much/4070-22558/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "304",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22558
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22559/",
+    "date_added": "2017-04-09 06:14:50",
+    "date_last_updated": "2017-04-09 06:14:51",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794903-maxresdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794903-maxresdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794903-maxresdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794903-maxresdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794903-maxresdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794903-maxresdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794903-maxresdefault.jpg"
+    },
+    "name": "Evil Coffee Shop Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-305-evil-coffee-shop-much/4070-22559/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "305",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22559
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22560/",
+    "date_added": "2017-04-09 06:14:55",
+    "date_last_updated": "2017-04-09 06:14:56",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794904-normal_59-44b.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794904-normal_59-44b.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794904-normal_59-44b.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794904-normal_59-44b.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794904-normal_59-44b.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794904-normal_59-44b.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794904-normal_59-44b.jpg"
+    },
+    "name": "Forward to the Past\"",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-306-forward-to-the-past/4070-22560/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "306",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22560
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22561/",
+    "date_added": "2017-04-09 06:15:00",
+    "date_last_updated": "2017-04-09 06:15:00",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794907-maxresdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794907-maxresdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794907-maxresdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794907-maxresdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794907-maxresdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794907-maxresdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794907-maxresdefault.jpg"
+    },
+    "name": "Planet of the Hunks",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-307-planet-of-the-hunks/4070-22561/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "307",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22561
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22562/",
+    "date_added": "2017-04-09 06:15:06",
+    "date_last_updated": "2017-04-10 07:35:40",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794908-mandy6.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794908-mandy6.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794908-mandy6.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794908-mandy6.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794908-mandy6.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794908-mandy6.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794908-mandy6.jpg"
+    },
+    "name": "Morphing Is So 1987",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-308-morphing-is-so-1987/4070-22562/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": "2004-11-14",
+    "character_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70748/",
+        "id": 70748,
+        "name": "Alex",
+        "site_detail_url": "https://comicvine.gamespot.com/alex/4005-70748/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70749/",
+        "id": 70749,
+        "name": "Clover",
+        "site_detail_url": "https://comicvine.gamespot.com/clover/4005-70749/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70750/",
+        "id": 70750,
+        "name": "Jerry Lewis",
+        "site_detail_url": "https://comicvine.gamespot.com/jerry-lewis/4005-70750/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70747/",
+        "id": 70747,
+        "name": "Sam Simpson",
+        "site_detail_url": "https://comicvine.gamespot.com/sam-simpson/4005-70747/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-138140/",
+        "id": 138140,
+        "name": "Tim Scam",
+        "site_detail_url": "https://comicvine.gamespot.com/tim-scam/4005-138140/"
+      }
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/concept/4015-56239/",
+        "id": 56239,
+        "name": "Martial Arts",
+        "site_detail_url": "https://comicvine.gamespot.com/martial-arts/4015-56239/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/concept/4015-56059/",
+        "id": 56059,
+        "name": "Robots",
+        "site_detail_url": "https://comicvine.gamespot.com/robots/4015-56059/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/concept/4015-56409/",
+        "id": 56409,
+        "name": "Spies",
+        "site_detail_url": "https://comicvine.gamespot.com/spies/4015-56409/"
+      }
+    ],
+    "episode_number": "308",
+    "first_appearance_characters": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-138140/",
+        "id": 138140,
+        "name": "Tim Scam",
+        "site_detail_url": "https://comicvine.gamespot.com/tim-scam/4005-138140/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70750/",
+        "id": 70750,
+        "name": "Jerry Lewis",
+        "site_detail_url": "https://comicvine.gamespot.com/jerry-lewis/4005-70750/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70748/",
+        "id": 70748,
+        "name": "Alex",
+        "site_detail_url": "https://comicvine.gamespot.com/alex/4005-70748/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70747/",
+        "id": 70747,
+        "name": "Sam Simpson",
+        "site_detail_url": "https://comicvine.gamespot.com/sam-simpson/4005-70747/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-70749/",
+        "id": 70749,
+        "name": "Clover",
+        "site_detail_url": "https://comicvine.gamespot.com/clover/4005-70749/"
+      }
+    ],
+    "first_appearance_concepts": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/concept/4015-56059/",
+        "id": 56059,
+        "name": "Robots",
+        "site_detail_url": "https://comicvine.gamespot.com/robots/4015-56059/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/concept/4015-56409/",
+        "id": 56409,
+        "name": "Spies",
+        "site_detail_url": "https://comicvine.gamespot.com/spies/4015-56409/"
+      },
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/concept/4015-56239/",
+        "id": 56239,
+        "name": "Martial Arts",
+        "site_detail_url": "https://comicvine.gamespot.com/martial-arts/4015-56239/"
+      }
+    ],
+    "first_appearance_locations": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/location/4020-59023/",
+        "id": 59023,
+        "name": "Beverly Hills",
+        "site_detail_url": "https://comicvine.gamespot.com/beverly-hills/4020-59023/"
+      }
+    ],
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-60999/",
+        "id": 60999,
+        "name": "WOOHP",
+        "site_detail_url": "https://comicvine.gamespot.com/woohp/4060-60999/"
+      }
+    ],
+    "location_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/location/4020-59023/",
+        "id": 59023,
+        "name": "Beverly Hills",
+        "site_detail_url": "https://comicvine.gamespot.com/beverly-hills/4020-59023/"
+      }
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+      {
+        "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-60999/",
+        "id": 60999,
+        "name": "WOOHP",
+        "site_detail_url": "https://comicvine.gamespot.com/woohp/4060-60999/"
+      }
+    ],
+    "has_staff_review": false,
+    "id": 22562
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22563/",
+    "date_added": "2017-04-09 06:15:11",
+    "date_last_updated": "2017-04-09 06:15:11",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794910-alex-muscle-32.png",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794910-alex-muscle-32.png",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794910-alex-muscle-32.png",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794910-alex-muscle-32.png",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794910-alex-muscle-32.png",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794910-alex-muscle-32.png",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794910-alex-muscle-32.png"
+    },
+    "name": "The Incredible Bulk",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-309-the-incredible-bulk/4070-22563/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "309",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22563
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22564/",
+    "date_added": "2017-04-09 06:15:17",
+    "date_last_updated": "2017-04-09 06:15:17",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794913-maxresdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794913-maxresdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794913-maxresdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794913-maxresdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794913-maxresdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794913-maxresdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794913-maxresdefault.jpg"
+    },
+    "name": "Super Nerd Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-310-super-nerd-much/4070-22564/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "310",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22564
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22565/",
+    "date_added": "2017-04-09 06:15:22",
+    "date_last_updated": "2017-04-09 06:15:23",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794914-684cb9b278078543a5b3e282dcced1ed.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794914-684cb9b278078543a5b3e282dcced1ed.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794914-684cb9b278078543a5b3e282dcced1ed.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794914-684cb9b278078543a5b3e282dcced1ed.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794914-684cb9b278078543a5b3e282dcced1ed.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794914-684cb9b278078543a5b3e282dcced1ed.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794914-684cb9b278078543a5b3e282dcced1ed.jpg"
+    },
+    "name": "Dental? More Like Mental",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-311-dental-more-like-mental/4070-22565/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "311",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22565
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22566/",
+    "date_added": "2017-04-09 06:15:28",
+    "date_last_updated": "2017-04-09 06:15:29",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794915-maxresdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794915-maxresdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794915-maxresdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794915-maxresdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794915-maxresdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794915-maxresdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794915-maxresdefault.jpg"
+    },
+    "name": "Escape From WOOHP Island",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-312-escape-from-woohp-island/4070-22566/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "312",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22566
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22567/",
+    "date_added": "2017-04-09 06:15:34",
+    "date_last_updated": "2017-04-09 06:15:34",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794921-ts-scamcampmuch08.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794921-ts-scamcampmuch08.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794921-ts-scamcampmuch08.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794921-ts-scamcampmuch08.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794921-ts-scamcampmuch08.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794921-ts-scamcampmuch08.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794921-ts-scamcampmuch08.jpg"
+    },
+    "name": "Scam Camp Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-313-scam-camp-much/4070-22567/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "313",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22567
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22568/",
+    "date_added": "2017-04-09 06:15:41",
+    "date_last_updated": "2017-04-09 06:15:41",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794925-maxresdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794925-maxresdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794925-maxresdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794925-maxresdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794925-maxresdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794925-maxresdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794925-maxresdefault.jpg"
+    },
+    "name": "Evil G.L.A.D.I.S. Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-314-evil-gladis-much/4070-22568/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "314",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22568
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22569/",
+    "date_added": "2017-04-09 06:15:46",
+    "date_last_updated": "2017-04-09 06:15:46",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794926-normal_52.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794926-normal_52.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794926-normal_52.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794926-normal_52.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794926-normal_52.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794926-normal_52.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794926-normal_52.jpg"
+    },
+    "name": "Super Agent Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-315-super-agent-much/4070-22569/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "315",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22569
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22570/",
+    "date_added": "2017-04-09 06:15:51",
+    "date_last_updated": "2017-04-09 06:15:51",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794930-normal_bscap181.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794930-normal_bscap181.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794930-normal_bscap181.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794930-normal_bscap181.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794930-normal_bscap181.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794930-normal_bscap181.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794930-normal_bscap181.jpg"
+    },
+    "name": "Evil Airlines Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-316-evil-airlines-much/4070-22570/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "316",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22570
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22571/",
+    "date_added": "2017-04-09 06:15:55",
+    "date_last_updated": "2017-04-09 06:15:55",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794932-pdvd_314.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794932-pdvd_314.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794932-pdvd_314.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794932-pdvd_314.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794932-pdvd_314.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794932-pdvd_314.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794932-pdvd_314.jpg"
+    },
+    "name": "Creepy Crawly Much?",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-317-creepy-crawly-much/4070-22571/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "317",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22571
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22572/",
+    "date_added": "2017-04-09 06:16:00",
+    "date_last_updated": "2017-04-09 06:16:00",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794934-maxresdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794934-maxresdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794934-maxresdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794934-maxresdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794934-maxresdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794934-maxresdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794934-maxresdefault.jpg"
+    },
+    "name": "Truth or Scare",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-318-truth-or-scare/4070-22572/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "318",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22572
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22573/",
+    "date_added": "2017-04-09 06:16:06",
+    "date_last_updated": "2017-04-09 06:16:06",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794935-maxresdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794935-maxresdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794935-maxresdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794935-maxresdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794935-maxresdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794935-maxresdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794935-maxresdefault.jpg"
+    },
+    "name": "Feng Shui Is Like Sooo Passe",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-319-feng-shui-is-like-sooo-passe/4070-22573/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "319",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22573
+  },
+  {
+    "aliases": null,
+    "api_detail_url": "https://comicvine.gamespot.com/api/episode/4070-22574/",
+    "date_added": "2017-04-09 06:16:10",
+    "date_last_updated": "2017-04-09 06:16:11",
+    "deck": null,
+    "description": null,
+    "image": {
+      "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794937-maxresdefault.jpg",
+      "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794937-maxresdefault.jpg",
+      "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794937-maxresdefault.jpg",
+      "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794937-maxresdefault.jpg",
+      "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794937-maxresdefault.jpg",
+      "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794937-maxresdefault.jpg",
+      "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794937-maxresdefault.jpg"
+    },
+    "name": "Evil Valentine's Day",
+    "site_detail_url": "https://comicvine.gamespot.com/totally-spies-320-evil-valentines-day/4070-22574/",
+    "story_arc_credits": [
+
+    ],
+    "air_date": null,
+    "character_credits": [
+
+    ],
+    "character_died_in": [
+
+    ],
+    "concept_credits": [
+
+    ],
+    "episode_number": "320",
+    "first_appearance_characters": null,
+    "first_appearance_concepts": null,
+    "first_appearance_locations": null,
+    "first_appearance_objects": null,
+    "first_appearance_storyarcs": null,
+    "first_appearance_teams": null,
+    "location_credits": [
+
+    ],
+    "object_credits": [
+
+    ],
+    "series": {
+      "api_detail_url": "https://comicvine.gamespot.com/api/series/4075-701/",
+      "id": 701,
+      "name": "Totally Spies!",
+      "site_detail_url": "https://comicvine.gamespot.com/totally-spies/4075-701/"
+    },
+    "team_credits": [
+
+    ],
+    "has_staff_review": false,
+    "id": 22574
+  }
+]
